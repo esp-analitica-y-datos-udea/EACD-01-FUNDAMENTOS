@@ -1,0 +1,1001 @@
+,nombre,apellido,documento_identidad,región,tipo_consulta,profesional,tiempo_respuesta,satisfacción_usuario,frecuencia_uso_mensual
+0,Nubia,Henao,97159307,Andina,Pediatría,Dr. Pérez,,1.0,
+1,Pablo,Salcedo,91687212,Pacífica,Medicina General,Dra. Gómez,22.0,5.0,2.0
+2,Luz,Ortiz,42664206,Amazonía,Pediatría,Dra. Gómez,7.0,,1.0
+3,Paola,Hernández,31193304,Pacífica,Pediatría,Dra. Gómez,33.0,4.0,
+4,Sonia,Arias,13524561,,Nutrición,Dr. Pérez,,5.0,3.0
+5,Sandra,Niño,80844367,Caribe,Nutrición,Dra. Torres,32.0,10.0,
+6,Sonia,Ríos,61509565,Caribe,Psicología,Dra. Martínez,99.0,3.0,
+7,Ricardo,Blanco,12737513,Pacífica,Dermatología,,23.0,,3.0
+8,Diana,Martínez,40924002,Orinoquía,Medicina General,Dr. Pérez,30.0,5.0,2.0
+9,Juan,Trujillo,99665107,Andina,Pediatría,Dra. Martínez,32.0,1.0,
+10,Carlos,Murcia,14498587,,Pediatría,Dra. Gómez,31.0,,2.0
+11,Ferney,Uribe,31677743,Pacífica,Pediatría,Dra. Martínez,30.0,2.0,
+12,Jimmy,Ávila,56761617,Amazonía,Nutrición,Dr. Rodríguez,27.0,,1.0
+13,Lucía,Vergara,53265797,Andina,Medicina General,Dr. Rodríguez,32.0,5.0,3.0
+14,Elver,Agudelo,90798163,Amazonía,Nutrición,Dra. Gómez,42.0,5.0,4.0
+15,Manuela,Díaz,61072432,Pacífica,Medicina General,Dra. Martínez,25.0,3.0,2.0
+16,Edgar,Martínez,28345676,Orinoquía,Medicina General,Dra. Martínez,39.0,,
+17,Henry,Mendoza,97779874,Amazonía,Pediatría,Dra. Gómez,108.0,3.0,2.0
+18,Blanca,Salazar,70038810,,Nutrición,Dr. Pérez,26.0,2.0,3.0
+19,Paula,Blanco,35692105,,Psicología,Dr. Pérez,40.0,3.0,3.0
+20,Elena,Castro,92256636,,Psicología,Dr. Rodríguez,35.0,1.0,
+21,Eduardo,Rubio,78127853,Andina,Nutrición,Dra. Gómez,19.0,5.0,3.0
+22,Ximena,Sepúlveda,71614528,Caribe,Pediatría,Dr. Rodríguez,43.0,5.0,
+23,Danna,González,96572696,Caribe,Psicología,Dra. Gómez,,3.0,1.0
+24,Aurora,Rodríguez,37850563,Orinoquía,Dermatología,Dra. Torres,19.0,5.0,
+25,Jimmy,López,80528394,Orinoquía,Pediatría,Dra. Gómez,32.0,3.0,
+26,Gregorio,Jaimes,88271572,Orinoquía,Dermatología,Dr. Rodríguez,24.0,4.0,2.0
+27,Luz,Morales,22633455,Orinoquía,Nutrición,Dr. Pérez,24.0,4.0,
+28,Estela,Meneses,38186419,,Dermatología,Dr. Rodríguez,,5.0,
+29,Manuel,Sánchez,55336107,Orinoquía,Nutrición,Dr. Pérez,49.0,1.0,0.0
+30,Gustavo,Gaviria,16894501,Caribe,Nutrición,Dra. Torres,52.0,4.0,0.0
+31,David,López,70743167,,Nutrición,Dr. Pérez,24.0,0.0,2.0
+32,Yasmín,Posada,12413550,Caribe,Dermatología,,,5.0,1.0
+33,Sara,Díaz,99470502,Amazonía,Medicina General,Dra. Martínez,48.0,5.0,3.0
+34,Luis,Duque,87857037,Amazonía,Dermatología,Dr. Pérez,30.0,2.0,2.0
+35,Blanca,Núñez,55852507,,Pediatría,,29.0,,1.0
+36,Francisco,Cifuentes,95790433,,Pediatría,Dra. Torres,,3.0,1.0
+37,Fernanda,Martínez,91076027,Amazonía,Psicología,Dr. Rodríguez,44.0,1.0,5.0
+38,Cecilia,Ospino,90871597,Pacífica,Psicología,Dra. Torres,34.0,3.0,1.0
+39,Carlos,González,12865643,Pacífica,Nutrición,Dra. Martínez,46.000.000.000.000.000,,2.0
+40,José,Fonseca,23406618,Amazonía,Dermatología,Dra. Martínez,13.0,4.0,
+41,Brayan,Montes,35190125,Andina,Pediatría,Dra. Gómez,34.0,3.0,2.0
+42,Alfredo,Arango,39268870,,Medicina General,Dra. Gómez,24.0,1.0,5.0
+43,Eugenia,Parra,69960413,Andina,Medicina General,Dr. Pérez,39.0,4.0,3.0
+44,Ruth,Ordóñez,77308410,Andina,Pediatría,Dra. Torres,,6.0,1.0
+45,Felipe,Jiménez,12077457,Orinoquía,Psicología,Dr. Rodríguez,,4.0,
+46,José,Patiño,45478168,Pacífica,Pediatría,Dra. Martínez,20.0,2.0,4.0
+47,Felipe,Figueroa,53625691,Orinoquía,Psicología,Dr. Rodríguez,37.0,1.0,4.0
+48,Laura,Jaramillo,57168152,Pacífica,Dermatología,Dra. Martínez,20.0,3.0,
+49,Amanda,Torres,50264105,Orinoquía,Nutrición,Dr. Pérez,,2.0,1.0
+50,Karen,Parra,74753636,,Nutrición,Dra. Martínez,17.0,2.0,
+51,Antonio,Ortega,33987305,,Psicología,Dr. Rodríguez,39.0,6.0,3.0
+52,Esther,Hernández,87343939,Pacífica,Nutrición,Dr. Pérez,38.0,5.0,
+53,Juana,Zapata,90852198,Caribe,Psicología,Dr. Pérez,30.0,2.0,0.0
+54,Verónica,Fernández,88508377,Caribe,Dermatología,Dra. Torres,2.7,10.0,4.0
+55,Alejandra,Cárdenas,49932647,Pacífica,Dermatología,Dra. Torres,24.0,,4.0
+56,Edith,León,57121937,Caribe,Psicología,Dra. Martínez,29.0,,2.0
+57,Luz,Gómez,43760742,Caribe,Pediatría,Dra. Gómez,25.0,3.0,
+58,Claudia,Daza,81067154,Caribe,Dermatología,Dr. Rodríguez,33.0,2.0,2.0
+59,César,Soto,72050648,Amazonía,Psicología,Dr. Pérez,31.0,3.0,
+60,Andrés,Ospino,82775811,Pacífica,Psicología,Dra. Martínez,39.0,,
+61,Yolanda,Hernández,10043140,Orinoquía,Psicología,Dra. Torres,12.0,3.0,1.0
+62,Karen,Sánchez,37168530,Caribe,Pediatría,Dra. Martínez,31.0,0.0,
+63,Patricia,Aguilar,64774609,Caribe,Dermatología,Dr. Pérez,30.0,5.0,
+64,Estella,Castillo,31907611,Amazonía,Medicina General,Dra. Torres,36.0,1.0,
+65,Leonor,Torres,79750500,Amazonía,Psicología,Dr. Rodríguez,30.0,,3.0
+66,Cecilia,Escobar,87857520,Pacífica,Medicina General,Dra. Martínez,41.000.000.000.000.000,,
+67,Luis,Gómez,95049153,Pacífica,Psicología,Dra. Torres,29.0,3.0,2.0
+68,José,Prieto,14060708,Caribe,Medicina General,Dr. Rodríguez,31.0,3.0,2.0
+69,Jerson,Giraldo,34518848,Orinoquía,Dermatología,,16.0,1.0,0.0
+70,Andrea,Molina,95890160,Amazonía,Psicología,,27.0,3.0,1.0
+71,Martín,Méndez,46536400,Orinoquía,Dermatología,Dr. Pérez,60.0,1.0,1.0
+72,Alberto,Martínez,64521643,,Medicina General,Dra. Martínez,34.0,5.0,
+73,Richard,Parra,72068567,,Medicina General,Dra. Gómez,10.0,,
+74,Juan,Gil,11892065,Orinoquía,Pediatría,Dr. Rodríguez,49.0,,
+75,Ramiro,Figueroa,82647571,Orinoquía,Pediatría,Dr. Rodríguez,25.0,2.0,0.0
+76,Ronald,Martínez,95847422,Caribe,Dermatología,Dra. Torres,25.0,4.0,2.0
+77,María,Mosquera,50179090,,Nutrición,Dra. Martínez,39.0,5.0,3.0
+78,Alfonso,Cuéllar,24020632,Orinoquía,Psicología,Dra. Martínez,31.0,3.0,
+79,Jesús,Gómez,59797360,,Nutrición,Dr. Rodríguez,,5.0,1.0
+80,Zoraida,Arenas,82909295,Orinoquía,Dermatología,Dr. Pérez,16.0,3.0,2.0
+81,Jhon,Daza,41183323,Orinoquía,Psicología,Dra. Martínez,41.0,4.0,
+82,David,García,20655297,Pacífica,Nutrición,Dra. Gómez,26.0,2.0,3.0
+83,Gloria,Vargas,39646928,Pacífica,Medicina General,Dra. Torres,40.0,2.0,2.0
+84,Ariel,Sierra,70811427,Andina,Medicina General,,52.0,,
+85,Lucy,Ochoa,43927188,Pacífica,Pediatría,Dr. Rodríguez,20.0,,1.0
+86,Luis,Trujillo,83876602,Pacífica,Psicología,Dra. Gómez,29.0,3.0,1.0
+87,Dora,Córdoba,83588289,,Nutrición,Dra. Torres,29.0,3.0,2.0
+88,María,López,21348649,Andina,Medicina General,Dra. Gómez,102.0,3.0,1.0
+89,Fernando,Rodríguez,86431589,Andina,Dermatología,Dr. Pérez,36.0,2.0,
+90,Viviana,Olaya,81212088,Orinoquía,Pediatría,Dr. Pérez,32.0,1.0,3.0
+91,Marcela,Pinto,48788486,Orinoquía,Dermatología,Dr. Rodríguez,37.0,5.0,2.0
+92,Álvaro,Calderón,15484132,Amazonía,Pediatría,,37.0,,
+93,Luis,Ochoa,93485461,,Dermatología,Dr. Rodríguez,10.0,3.0,
+94,Jerson,Ramos,92925542,Caribe,Psicología,Dr. Rodríguez,17.0,2.0,1.0
+95,Fabiola,Bautista,42878780,Amazonía,Pediatría,,26.0,,0.0
+96,Sandra,Hernández,70168008,Orinoquía,Medicina General,Dra. Martínez,45.0,5.0,1.0
+97,Cecilia,Flórez,73278052,Pacífica,Nutrición,,19.0,3.0,
+98,Ramón,García,24563733,Amazonía,Dermatología,Dr. Rodríguez,43.0,3.0,
+99,Mónica,López,86136048,Caribe,Psicología,Dr. Pérez,42.0,4.0,0.0
+100,Carmen,Gutiérrez,59639628,Amazonía,Dermatología,,,2.0,2.0
+101,Roberto,Moreno,73092812,Caribe,Pediatría,,25.0,4.0,3.0
+102,Fernanda,Palacios,46104426,Orinoquía,Pediatría,Dra. Torres,23.0,3.0,4.0
+103,Andrés,Parra,34698117,Orinoquía,Dermatología,Dra. Gómez,,,0.0
+104,Liliana,Buitrago,98101025,Pacífica,Nutrición,Dra. Martínez,29.0,5.0,2.0
+105,Brandon,Ríos,59039460,Caribe,Nutrición,Dra. Torres,16.0,5.0,2.0
+106,Lorena,Guzmán,43358934,Orinoquía,Nutrición,Dr. Pérez,51.0,2.0,1.0
+107,Ximena,Mercado,52321841,Orinoquía,Dermatología,Dra. Gómez,30.0,5.0,3.0
+108,Andrés,Martínez,31742095,Caribe,Medicina General,,,5.0,1.0
+109,Álvaro,González,75387030,,Nutrición,Dr. Pérez,25.0,4.0,2.0
+110,Andrea,Duque,16147891,Caribe,Medicina General,,31.0,5.0,3.0
+111,Hernando,Mercado,86053686,Amazonía,Dermatología,Dr. Rodríguez,22.0,5.0,1.0
+112,Nury,Ríos,76558968,Amazonía,Pediatría,Dr. Rodríguez,31.0,,3.0
+113,César,Mora,92362553,Pacífica,Psicología,Dra. Gómez,42.0,2.0,1.0
+114,Oliva,Cárdenas,15095660,,Medicina General,Dr. Pérez,27.0,2.0,1.0
+115,Luz,Quiroz,22095648,Orinoquía,Dermatología,Dr. Rodríguez,39.0,4.0,1.0
+116,John,Fernández,82514790,Amazonía,Psicología,Dr. Rodríguez,18.0,5.0,2.0
+117,Antonia,Reyes,56011771,Caribe,Psicología,Dr. Pérez,41.0,5.0,
+118,Jesús,Sánchez,72965652,Caribe,Psicología,Dr. Rodríguez,,1.0,1.0
+119,Ancizar,Moreno,64209114,Caribe,Medicina General,Dr. Rodríguez,31.0,1.0,
+120,Mery,Guevara,95292354,Orinoquía,Medicina General,Dra. Martínez,,1.0,6.0
+121,Fredy,Vargas,92402305,Pacífica,Dermatología,Dr. Rodríguez,42.0,4.0,2.0
+122,Óscar,Ceballos,79218450,Orinoquía,Nutrición,Dra. Gómez,51.000.000.000.000.000,6.0,2.0
+123,Jhon,Pérez,47365366,Orinoquía,Medicina General,,16.0,3.0,0.0
+124,Marco,Contreras,84603361,Pacífica,Pediatría,,32.0,1.0,3.0
+125,Concepción,Molina,57534650,,Nutrición,Dra. Gómez,28.0,,2.0
+126,Jonathan,Orjuela,55519945,,Psicología,,48.0,6.0,1.0
+127,Lidia,Osorio,70979908,,Medicina General,Dr. Pérez,30.0,1.0,2.0
+128,Yulieth,Suárez,25704009,Amazonía,Pediatría,Dr. Rodríguez,13.0,2.0,2.0
+129,Franklin,Torres,95535499,Andina,Pediatría,,39.0,2.0,2.0
+130,Jairo,González,66778895,Caribe,Pediatría,Dr. Rodríguez,12.0,,3.0
+131,Carolina,Rico,39452074,Caribe,Nutrición,Dr. Rodríguez,38.0,2.0,0.0
+132,Inés,Hernández,13705190,Pacífica,Psicología,,29.0,,2.0
+133,Andrea,Cardona,37039967,,Nutrición,,25.0,4.0,3.0
+134,Paula,Martínez,86712076,Caribe,Psicología,Dra. Torres,35.0,4.0,3.0
+135,Santiago,Páez,60058835,,Nutrición,,37.0,,2.0
+136,Francisco,Pardo,23006162,Pacífica,Dermatología,Dra. Martínez,15.0,5.0,2.0
+137,Camilo,Escobar,13663750,Orinoquía,Psicología,,38.0,1.0,2.0
+138,José,Vargas,99141490,,Psicología,Dr. Rodríguez,30.0,4.0,3.0
+139,Lucía,Gallego,49645625,Caribe,Nutrición,Dra. Torres,26.0,4.0,3.0
+140,Andrés,Narváez,21737388,,Psicología,Dra. Martínez,33.0,2.0,
+141,Cecilia,Fuentes,49361492,Orinoquía,Medicina General,Dr. Pérez,32.0,1.0,2.0
+142,Leidy,Sánchez,81800081,Pacífica,Psicología,Dra. Martínez,31.0,,1.0
+143,Dario,Gómez,14990582,Andina,Pediatría,Dr. Rodríguez,34.0,,
+144,Ramón,Moreno,45646802,Amazonía,Dermatología,Dra. Torres,19.000.000.000.000.000,1.0,
+145,María,Durán,35792967,Amazonía,Nutrición,Dra. Torres,39.000.000.000.000.000,4.0,4.0
+146,David,Serna,67259951,Orinoquía,Medicina General,Dr. Pérez,12.0,,
+147,Constanza,Rodríguez,50876936,,Pediatría,Dr. Rodríguez,39.0,1.0,1.0
+148,María,Castillo,85314348,,Psicología,Dra. Torres,,3.0,2.0
+149,Carmen,Díaz,16010780,Orinoquía,Dermatología,Dra. Gómez,54.0,,1.0
+150,Sergio,Calderón,42734186,Orinoquía,Psicología,Dr. Rodríguez,54.0,2.0,1.0
+151,Andrés,Hernández,80603810,,Psicología,Dr. Pérez,20.0,5.0,4.0
+152,Johnny,Sanabria,42404407,Pacífica,Dermatología,Dra. Martínez,15.0,4.0,4.0
+153,Yenny,Domínguez,32563142,Orinoquía,Pediatría,Dra. Torres,33.0,3.0,4.0
+154,Elmer,Medina,81814692,Andina,Pediatría,Dr. Rodríguez,24.0,,1.0
+155,Consuelo,Andrade,66753401,Amazonía,Pediatría,Dra. Martínez,24.0,0.0,1.0
+156,Sandra,Prada,55900425,Caribe,Nutrición,Dra. Gómez,63.0,,1.0
+157,Carlos,Ruiz,87091573,Orinoquía,Psicología,Dra. Torres,47.0,3.0,4.0
+158,Martín,Hernández,73907343,Andina,Dermatología,Dr. Rodríguez,34.0,,
+159,Alicia,Rivera,62021824,Orinoquía,Pediatría,Dr. Rodríguez,,3.0,
+160,Santiago,Suárez,65395366,Andina,Nutrición,Dr. Pérez,35.0,1.0,4.0
+161,Alberto,Ochoa,64705961,Andina,Medicina General,Dr. Rodríguez,41.0,2.0,4.0
+162,Martha,Tamayo,66535337,Caribe,Psicología,Dra. Torres,51.0,4.0,2.0
+163,Vicente,Giraldo,54549223,Caribe,Medicina General,Dra. Torres,30.0,5.0,0.0
+164,Andrea,Naranjo,32141979,Andina,Pediatría,Dr. Pérez,17.0,2.0,2.0
+165,Inés,Henao,14104802,Caribe,Dermatología,Dra. Gómez,,2.0,
+166,Carolina,Álvarez,53389501,,Medicina General,Dr. Pérez,,,2.0
+167,Antonio,Monroy,75189108,Andina,Pediatría,Dr. Rodríguez,25.0,3.0,4.0
+168,Wilfrido,Márquez,84779258,Caribe,Medicina General,Dr. Rodríguez,31.0,4.0,1.0
+169,Edith,Valencia,99114077,,Dermatología,Dra. Torres,29.0,,3.0
+170,Neider,Hernández,82412438,Pacífica,Pediatría,,17.0,,0.0
+171,Rubén,Correa,12024663,,Medicina General,Dr. Pérez,141.0,,2.0
+172,María,Pineda,23208644,Orinoquía,Dermatología,Dr. Pérez,35.0,4.0,0.0
+173,Camilo,Díaz,31011015,,Pediatría,Dr. Rodríguez,33.0,3.0,1.0
+174,Laura,López,19629429,Orinoquía,Nutrición,Dra. Torres,,6.0,
+175,Sandra,Carvajal,53465589,Pacífica,Pediatría,Dr. Rodríguez,30.0,4.0,4.0
+176,Ángela,Zambrano,25540339,Pacífica,Medicina General,Dr. Rodríguez,26.0,3.0,1.0
+177,Luis,Carvajal,31827727,,Dermatología,Dra. Martínez,34.0,5.0,2.0
+178,Luis,Chaparro,99388442,,Pediatría,Dra. Torres,4.0,3.0,0.0
+179,Gloria,García,69508163,Amazonía,Psicología,,37.0,4.0,2.0
+180,Arnulfo,Herrera,57634398,Orinoquía,Medicina General,Dr. Pérez,34.0,3.0,0.0
+181,Patricia,Caicedo,43365659,Orinoquía,Nutrición,Dra. Torres,19.0,2.0,2.0
+182,Robert,Niño,72321007,Andina,Pediatría,Dra. Torres,39.0,,0.0
+183,María,Carvajal,39374765,,Nutrición,,43.0,6.0,3.0
+184,Adriana,Reyes,22144807,Orinoquía,Medicina General,Dr. Rodríguez,,,2.0
+185,Mónica,Vargas,65546982,Andina,Dermatología,Dra. Martínez,39.0,2.0,3.0
+186,Andrea,Gómez,54165270,Orinoquía,Medicina General,,,3.0,2.0
+187,Emilse,López,65719368,Orinoquía,Dermatología,Dr. Pérez,33.0,,
+188,Marlén,Guerra,35371471,Andina,Psicología,,,,2.0
+189,Adriana,López,77171407,Andina,Medicina General,Dra. Martínez,31.0,2.0,
+190,Humberto,Salgado,40813415,Andina,Psicología,,36.0,4.0,0.0
+191,Israel,Salazar,75618510,Pacífica,Dermatología,Dra. Gómez,32.0,4.0,
+192,Victoria,Osorio,44115823,Pacífica,Pediatría,Dr. Rodríguez,29.0,5.0,3.0
+193,Alfonso,Castaño,66876400,Amazonía,Dermatología,Dra. Gómez,,5.0,4.0
+194,Jesús,Ballesteros,92632067,Caribe,Psicología,,37.0,4.0,1.0
+195,Álvaro,Peña,47072537,,Pediatría,Dr. Rodríguez,25.0,1.0,2.0
+196,José,Martínez,69790936,Orinoquía,Pediatría,Dra. Torres,,,0.0
+197,Estella,Villamizar,93609998,Amazonía,Medicina General,,20.0,,
+198,Carlos,Vera,12347935,,Medicina General,Dr. Pérez,,3.0,2.0
+199,Ingrid,Flórez,96970074,Amazonía,Medicina General,,30.0,5.0,3.0
+200,Angie,González,34513367,Caribe,Psicología,Dra. Martínez,27.0,2.0,1.0
+201,Yeison,Alfonso,41865920,Amazonía,Pediatría,Dra. Torres,25.0,5.0,3.0
+202,Paola,Cruz,38568765,Andina,Pediatría,,30.0,1.0,
+203,Elena,Rincón,62905735,Orinoquía,Nutrición,Dra. Gómez,47.0,1.0,3.0
+204,Felipe,Rojas,62096712,Andina,Dermatología,Dra. Gómez,22.0,4.0,2.0
+205,Shirley,Cortés,55767469,Caribe,Pediatría,Dra. Torres,28.0,3.0,0.0
+206,Óscar,Caicedo,91553636,,Medicina General,Dra. Torres,28.0,6.0,1.0
+207,María,Díaz,16995142,Caribe,Medicina General,,38.0,,1.0
+208,Claudia,Villamil,60917329,Caribe,Psicología,Dra. Gómez,42.0,4.0,1.0
+209,Martha,Mesa,41840705,Orinoquía,Dermatología,Dra. Martínez,,2.0,0.0
+210,Sandra,Escobar,49589657,Andina,Pediatría,Dra. Martínez,39.0,2.0,
+211,David,Montoya,89201733,Andina,Psicología,Dra. Torres,44.0,5.0,4.0
+212,Alfonso,Hernández,25511326,Caribe,Nutrición,Dr. Pérez,63.0,4.0,
+213,Alexander,Rivera,92119134,Caribe,Dermatología,,24.0,5.0,3.0
+214,Alexander,Jiménez,12861458,Orinoquía,Psicología,Dra. Torres,33.0,10.0,4.0
+215,Adolfo,Leal,68612907,Amazonía,Medicina General,,20.0,2.0,0.0
+216,Paola,Jiménez,19866001,Orinoquía,Medicina General,Dra. Martínez,18.0,,1.0
+217,Álvaro,Hernández,11767294,Andina,Pediatría,Dra. Martínez,35.0,,
+218,Mauricio,Sánchez,86938300,Andina,Pediatría,Dra. Martínez,21.0,1.0,0.0
+219,María,Torres,88965777,Amazonía,Psicología,Dra. Gómez,38.0,4.0,
+220,Elena,Villamizar,21560260,Orinoquía,Dermatología,Dra. Gómez,10.0,,5.0
+221,Rubiela,Salazar,86905088,,Dermatología,Dra. Gómez,24.000.000.000.000.000,5.0,
+222,Hugo,Narváez,77709949,Orinoquía,Dermatología,,34.0,4.0,0.0
+223,Victoria,Valderrama,61075113,,Pediatría,Dr. Rodríguez,20.0,3.0,
+224,Denis,Camargo,71066287,Caribe,Psicología,Dr. Rodríguez,50.0,4.0,3.0
+225,Elena,Guerrero,60394765,,Pediatría,,,4.0,3.0
+226,Rocío,Castaño,17302338,Amazonía,Nutrición,Dra. Martínez,27.0,2.0,3.0
+227,Mercedes,Ruiz,20973628,Pacífica,Psicología,Dr. Rodríguez,24.0,4.0,2.0
+228,Felipe,Mercado,62161192,Andina,Medicina General,,,,5.0
+229,Mario,Rodríguez,67696774,Pacífica,Pediatría,Dra. Gómez,22.0,,3.0
+230,Javier,Rojas,81192851,Orinoquía,Nutrición,Dr. Pérez,17.0,,1.0
+231,Yohana,Vergara,90701484,,Dermatología,,41.0,1.0,
+232,Néstor,Herrera,24800472,Pacífica,Medicina General,Dra. Gómez,81.0,1.0,
+233,Javier,Ángel,96586664,Pacífica,Psicología,Dr. Rodríguez,87.0,4.0,2.0
+234,Alejandra,Cuesta,83575661,,Pediatría,,36.0,2.0,0.0
+235,Fernando,Hernández,79148309,Amazonía,Medicina General,,-3.0,2.0,0.0
+236,Edward,Agudelo,11425934,,Pediatría,Dra. Martínez,36.0,4.0,1.0
+237,Óscar,Orjuela,78720835,Orinoquía,Pediatría,,32.0,,2.0
+238,María,Pardo,36819455,Caribe,Medicina General,Dra. Martínez,24.0,,
+239,Jhon,Arango,64422430,Andina,Medicina General,Dra. Gómez,29.0,3.0,2.0
+240,Eduardo,Cardona,86506940,Andina,Pediatría,Dr. Pérez,31.0,1.0,3.0
+241,Karen,Gómez,54355998,,Psicología,Dr. Rodríguez,10.0,3.0,
+242,María,López,44950261,Orinoquía,Psicología,Dra. Martínez,35.0,2.0,
+243,Victoria,Jiménez,26225865,Orinoquía,Dermatología,Dr. Pérez,37.0,3.0,1.0
+244,María,Martínez,87619875,,Medicina General,,,5.0,0.0
+245,Jhon,Pedraza,67620400,Pacífica,Pediatría,,43.0,,0.0
+246,Gloria,González,28750789,Caribe,Nutrición,Dra. Torres,19.0,,1.0
+247,Nataly,Londoño,32488128,Orinoquía,Dermatología,Dr. Pérez,4.7,2.0,1.0
+248,Socorro,Rodríguez,27510538,Caribe,Medicina General,Dra. Torres,39.0,1.0,2.0
+249,Patricia,Betancur,59423757,Andina,Medicina General,Dra. Torres,29.0,,2.0
+250,Ana,Torres,97207439,Orinoquía,Nutrición,Dra. Martínez,28.0,2.0,1.0
+251,Esperanza,Gómez,29881781,Orinoquía,Dermatología,Dra. Torres,3.6,0.0,1.0
+252,Kelly,Galvis,34984154,Andina,Psicología,Dr. Rodríguez,,2.0,1.0
+253,Angélica,González,50633570,,Psicología,Dra. Gómez,39.0,5.0,4.0
+254,Ángela,Reyes,78205877,Pacífica,Nutrición,,22.0,4.0,3.0
+255,Olga,Restrepo,39068712,Caribe,Psicología,Dr. Pérez,16.0,,3.0
+256,Enrique,Mosquera,28057863,Andina,Pediatría,Dra. Gómez,26.0,4.0,1.0
+257,Diego,Pérez,31378155,Amazonía,Pediatría,Dra. Torres,84.0,2.0,0.0
+258,Nubia,Sánchez,94150140,Andina,Psicología,Dr. Pérez,41.0,,4.0
+259,Catalina,Vélez,83309230,Caribe,Medicina General,Dra. Gómez,18.0,3.0,
+260,Liliana,Molina,98503373,Orinoquía,Nutrición,Dra. Martínez,,5.0,1.0
+261,Fredy,Acosta,68743431,,Psicología,Dra. Torres,,4.0,
+262,José,Salamanca,61873674,Orinoquía,Medicina General,,39.0,1.0,3.0
+263,Fernanda,Ospino,58373004,Caribe,Pediatría,Dr. Pérez,21.0,5.0,1.0
+264,María,Gaviria,44210991,Amazonía,Dermatología,,42.0,,1.0
+265,María,Gallego,83277591,Pacífica,Medicina General,Dra. Gómez,28.0,10.0,
+266,Javier,Sandoval,55785043,Amazonía,Medicina General,Dr. Pérez,31.0,3.0,2.0
+267,Liliana,Mesa,94633648,Orinoquía,Psicología,Dr. Rodríguez,35.0,2.0,
+268,Germán,Ortiz,18804382,,Nutrición,Dra. Martínez,13.0,,0.0
+269,Helena,Montenegro,73538896,Andina,Medicina General,Dr. Pérez,26.0,5.0,3.0
+270,Dora,Salazar,38080880,Andina,Nutrición,,50.0,5.0,
+271,Yeferson,López,22786233,Amazonía,Psicología,Dr. Pérez,,4.0,
+272,Maira,Álvarez,67525076,Andina,Pediatría,Dra. Martínez,38.0,1.0,1.0
+273,Patricia,Moreno,14757261,Amazonía,Nutrición,Dra. Gómez,,2.0,4.0
+274,Erika,Contreras,87738456,Orinoquía,Psicología,Dr. Rodríguez,,2.0,0.0
+275,Jorge,León,96832251,Amazonía,Pediatría,Dr. Pérez,27.0,3.0,2.0
+276,Carmen,Rodríguez,72508221,,Medicina General,,32.0,2.0,3.0
+277,Cristina,Ayala,10648046,Caribe,Dermatología,Dr. Rodríguez,53.0,1.0,3.0
+278,Laura,Díaz,72887442,Caribe,Psicología,Dra. Gómez,34.0,3.0,
+279,María,Fonseca,43742571,,Nutrición,Dr. Pérez,,1.0,
+280,Paola,Bernal,52200722,Orinoquía,Pediatría,Dra. Martínez,35.0,4.0,5.0
+281,Katerine,López,71225928,,Psicología,Dra. Torres,44.0,,
+282,Katerine,Gómez,85366796,Caribe,Medicina General,Dra. Gómez,40.0,3.0,1.0
+283,Alberto,Chávez,72845696,,Psicología,Dr. Pérez,41.0,5.0,0.0
+284,Andrés,Orozco,25232445,Orinoquía,Nutrición,Dra. Gómez,13.0,5.0,1.0
+285,Felipe,Herrera,73989255,Orinoquía,Pediatría,Dra. Martínez,22.0,,1.0
+286,Juan,Díaz,15029898,Orinoquía,Pediatría,Dr. Pérez,16.0,1.0,0.0
+287,Mauricio,Marín,28029911,,Dermatología,Dr. Rodríguez,34.0,4.0,0.0
+288,Fernando,Gómez,18724202,Orinoquía,Nutrición,,16.0,4.0,3.0
+289,Paula,Delgado,77191838,Pacífica,Pediatría,Dr. Rodríguez,9.0,2.0,1.0
+290,Elsa,Vélez,34583243,Pacífica,Pediatría,,31.0,2.0,4.0
+291,Libardo,Parra,81433089,Amazonía,Psicología,Dra. Martínez,16.0,5.0,
+292,Augusto,Carvajal,36326452,Pacífica,Medicina General,Dra. Martínez,32.0,5.0,1.0
+293,Diana,Alzate,81463513,Amazonía,Dermatología,Dra. Torres,29.0,1.0,6.0
+294,Rafael,Garcés,94445572,Pacífica,Nutrición,Dra. Torres,,3.0,2.0
+295,Cristina,Quintero,89014872,Caribe,Nutrición,Dra. Martínez,50.0,,
+296,Elena,Betancur,69192325,Amazonía,Pediatría,Dr. Rodríguez,24.0,2.0,2.0
+297,Pilar,Toro,98982114,Amazonía,Medicina General,,46.0,,
+298,Mary,Rodríguez,59230399,,Medicina General,Dr. Pérez,174.0,5.0,2.0
+299,Carlos,Obando,27480946,Orinoquía,Nutrición,,36.0,6.0,5.0
+300,María,López,65728055,Caribe,Pediatría,,43.0,5.0,2.0
+301,Sandra,Triana,53429543,Pacífica,Dermatología,,42.0,5.0,2.0
+302,Edna,Salazar,15391499,Pacífica,Medicina General,Dra. Martínez,26.0,4.0,
+303,María,Muñoz,39036315,,Nutrición,Dra. Martínez,32.0,4.0,2.0
+304,Amalia,Rodríguez,85256116,Caribe,Nutrición,Dra. Martínez,50.0,,2.0
+305,Norma,Torres,45836305,Caribe,Psicología,,34.0,3.0,1.0
+306,María,Velandia,80162557,Pacífica,Nutrición,Dra. Gómez,25.0,4.0,3.0
+307,Smith,Parra,10290026,,Psicología,,26.0,2.0,
+308,Eduardo,Lozano,71798477,Amazonía,Nutrición,Dra. Martínez,32.0,,1.0
+309,Lucía,Mena,68000701,,Pediatría,Dra. Gómez,11.0,2.0,2.0
+310,Alberto,Rodríguez,49702457,,Pediatría,Dra. Martínez,34.0,3.0,0.0
+311,Andrés,Ramos,35191635,Caribe,Nutrición,,36.0,2.0,3.0
+312,Adriana,Salazar,23303591,,Psicología,Dra. Martínez,25.0,2.0,5.0
+313,Alonso,Sánchez,90031543,Andina,Dermatología,Dra. Martínez,19.0,1.0,2.0
+314,Miguel,Hurtado,82165264,Andina,Nutrición,,2.5,1.0,
+315,María,González,77058736,Andina,Medicina General,Dr. Pérez,23.0,,1.0
+316,Martha,Beltrán,15095038,Pacífica,Medicina General,Dra. Torres,37.0,4.0,
+317,María,Parra,56537103,Pacífica,Psicología,Dra. Torres,19.0,3.0,2.0
+318,Sebastián,Pabón,18057193,,Nutrición,,,1.0,4.0
+319,José,Ramírez,62828184,,Medicina General,Dra. Torres,23.0,3.0,1.0
+320,Juan,Rueda,62325600,Amazonía,Nutrición,Dra. Torres,20.0,1.0,
+321,Jonathan,Torres,62569570,Orinoquía,Dermatología,Dra. Martínez,18.0,1.0,3.0
+322,Adriana,Murillo,20871743,Amazonía,Dermatología,Dr. Pérez,44.0,5.0,5.0
+323,Elena,Posada,69304554,Caribe,Medicina General,Dra. Gómez,29.0,,0.0
+324,Luis,Muñoz,20027916,Orinoquía,Psicología,Dra. Martínez,,,1.0
+325,Esperanza,Mosquera,12274078,Amazonía,Nutrición,Dra. Gómez,20.0,4.0,3.0
+326,Andrea,Fonseca,70953694,,Dermatología,,6.0,1.0,2.0
+327,Paola,Díaz,33326627,,Dermatología,Dr. Rodríguez,40.0,6.0,3.0
+328,Jean,López,95247241,Orinoquía,Psicología,,10.0,2.0,2.0
+329,Leonardo,Rico,96367171,Caribe,Pediatría,Dra. Torres,22.0,,5.0
+330,Rocío,Castro,27149616,Orinoquía,Psicología,Dr. Pérez,34.0,3.0,1.0
+331,Katherine,Gutiérrez,20285405,Caribe,Pediatría,Dra. Martínez,19.0,5.0,6.0
+332,Lucía,Martínez,53873343,Orinoquía,Dermatología,Dr. Rodríguez,35.0,1.0,0.0
+333,Manuel,Martínez,95303173,Pacífica,Dermatología,Dra. Gómez,,2.0,3.0
+334,Ricardo,Fajardo,88169180,Amazonía,Nutrición,Dra. Martínez,17.0,,1.0
+335,Andrés,Londoño,73680556,,Pediatría,,23.0,,1.0
+336,Alexander,Martínez,91382790,Orinoquía,Dermatología,Dra. Martínez,28.0,2.0,
+337,Ingrid,Daza,98692213,Andina,Pediatría,Dr. Rodríguez,13.0,4.0,
+338,Nelly,Bermúdez,10183048,Amazonía,Dermatología,Dr. Rodríguez,,1.0,
+339,Edinson,Valencia,26276502,Orinoquía,Dermatología,Dr. Rodríguez,31.0,5.0,3.0
+340,Jaime,Restrepo,89321328,Caribe,Dermatología,Dr. Rodríguez,28.0,,3.0
+341,Jonathan,García,62712374,Orinoquía,Nutrición,Dra. Gómez,,1.0,0.0
+342,Adriana,Gutiérrez,64578043,Caribe,Nutrición,Dr. Pérez,,5.0,1.0
+343,Diana,Suárez,14463048,Andina,Pediatría,Dr. Rodríguez,31.0,4.0,2.0
+344,Eduard,Serna,98727186,Andina,Pediatría,Dra. Gómez,42.0,5.0,1.0
+345,Jimmy,Padilla,68843511,Caribe,Medicina General,,45.0,,
+346,Jesús,Ruiz,40227669,Caribe,Medicina General,Dra. Gómez,48.0,5.0,3.0
+347,Aura,Sierra,92249286,Caribe,Psicología,Dra. Torres,32.0,,2.0
+348,Isabel,Arenas,72413229,Pacífica,Nutrición,Dra. Gómez,35.0,3.0,2.0
+349,Uriel,Rubio,38895833,Orinoquía,Dermatología,Dra. Torres,53.0,,3.0
+350,Luis,Monroy,86597556,Caribe,Nutrición,Dra. Martínez,,2.0,2.0
+351,María,Hernández,53072878,Amazonía,Medicina General,Dr. Rodríguez,30.0,,1.0
+352,Milena,Castro,74148867,Pacífica,Medicina General,Dra. Torres,43.0,4.0,1.0
+353,Andrés,Pabón,61224609,Pacífica,Dermatología,Dr. Rodríguez,25.0,3.0,0.0
+354,Sonia,Ortiz,70546164,,Psicología,Dra. Martínez,31.0,2.0,3.0
+355,Jessica,Moreno,44377021,Orinoquía,Pediatría,Dr. Rodríguez,17.0,2.0,1.0
+356,Paula,Díaz,14783261,Caribe,Medicina General,Dr. Pérez,11.0,4.0,1.0
+357,Miriam,Lozano,51698017,,Dermatología,,30.0,2.0,2.0
+358,Rubiela,Acosta,69295673,Orinoquía,Dermatología,Dra. Torres,23.0,1.0,0.0
+359,Elvis,Serrano,82319995,Caribe,Nutrición,Dr. Rodríguez,,4.0,0.0
+360,Víctor,Velásquez,59908200,Caribe,Pediatría,,35.0,6.0,1.0
+361,Hugo,Montoya,55836226,Andina,Nutrición,Dr. Rodríguez,33.0,5.0,4.0
+362,Juliana,López,40148957,Amazonía,Psicología,Dr. Pérez,35.0,5.0,
+363,Ronald,Hernández,40472136,Caribe,Medicina General,Dr. Rodríguez,16.0,4.0,0.0
+364,Fabián,Espinosa,52584643,,Medicina General,Dr. Pérez,31.0,1.0,3.0
+365,Miguel,Suárez,64120033,Andina,Dermatología,Dr. Pérez,14.0,2.0,2.0
+366,Inés,Rojas,89267684,,Nutrición,Dr. Pérez,29.0,4.0,1.0
+367,Sandra,Díaz,94139389,,Pediatría,,25.0,4.0,
+368,Wilmer,Pérez,96571160,Pacífica,Psicología,Dr. Pérez,2.5,5.0,2.0
+369,Yaneth,Morales,97537325,Andina,Psicología,Dra. Gómez,,4.0,3.0
+370,Alonso,Barragán,62846796,Orinoquía,Dermatología,Dra. Martínez,28.0,5.0,
+371,Carolina,Aguirre,79535677,Amazonía,Nutrición,Dra. Martínez,34.0,2.0,4.0
+372,María,Camacho,31822303,Caribe,Medicina General,,44.0,,2.0
+373,Alberto,Marín,53691816,,Psicología,Dra. Torres,,4.0,3.0
+374,Mercedes,Ramírez,69865273,Caribe,Dermatología,,39.0,1.0,3.0
+375,María,Polo,43781680,Pacífica,Pediatría,Dra. Gómez,25.0,1.0,0.0
+376,David,González,49364037,Amazonía,Medicina General,Dra. Torres,29.0,5.0,
+377,Sonia,Castrillón,43145032,Orinoquía,Medicina General,,31.0,1.0,2.0
+378,Roberto,Jiménez,65242367,Orinoquía,Pediatría,,25.0,5.0,5.0
+379,Fernando,Muñoz,69093003,Pacífica,Dermatología,,33.0,5.0,
+380,José,Martínez,49343697,Andina,Dermatología,Dr. Pérez,22.0,5.0,1.0
+381,Cecilia,Sánchez,24025184,Amazonía,Dermatología,Dr. Rodríguez,24.0,,1.0
+382,William,González,96550211,Orinoquía,Dermatología,Dra. Martínez,42.0,3.0,1.0
+383,María,Martínez,18662684,Amazonía,Medicina General,Dra. Gómez,41.0,5.0,2.0
+384,Amanda,Mejía,60922262,Pacífica,Nutrición,Dra. Torres,34.0,3.0,3.0
+385,Wilmar,Medina,67266158,,Dermatología,,14.0,,1.0
+386,Ingrid,García,88771462,Amazonía,Medicina General,Dra. Torres,30.0,4.0,
+387,Fredy,Molina,85998042,Amazonía,Pediatría,Dr. Pérez,29.0,4.0,3.0
+388,Alejandra,Ruiz,39971271,Andina,Psicología,Dr. Rodríguez,47.0,1.0,3.0
+389,Yohana,Sarmiento,53045279,Caribe,Medicina General,Dra. Gómez,41.0,,3.0
+390,Hugo,Durán,72637387,Orinoquía,Dermatología,Dr. Rodríguez,49.0,10.0,3.0
+391,Javier,Bedoya,79895497,Andina,Dermatología,Dr. Pérez,,,2.0
+392,Alejandro,Ramos,26405229,,Dermatología,Dr. Pérez,,4.0,1.0
+393,Judith,Niño,47223514,Amazonía,Nutrición,,23.0,0.0,
+394,Sandra,Marín,71496832,Andina,Dermatología,Dra. Martínez,34.0,5.0,2.0
+395,Arley,González,71114151,Amazonía,Psicología,Dra. Torres,25.0,1.0,2.0
+396,Martha,Maldonado,77035170,Amazonía,Psicología,,19.0,3.0,2.0
+397,Esteban,Andrade,46409014,Andina,Medicina General,Dr. Rodríguez,34.0,2.0,2.0
+398,Carol,Jiménez,32785092,,Medicina General,Dra. Torres,21.0,5.0,2.0
+399,Martha,Suárez,58663765,Amazonía,Dermatología,Dra. Torres,42.0,4.0,2.0
+400,Cecilia,Ruiz,11778349,Andina,Medicina General,Dra. Gómez,33.0,5.0,2.0
+401,Rocío,Vargas,26997472,Andina,Nutrición,Dra. Torres,27.0,1.0,1.0
+402,Marcela,Muñoz,83334536,Orinoquía,Psicología,Dr. Rodríguez,23.0,2.0,
+403,Andrés,Manrique,73255516,Orinoquía,Medicina General,Dra. Martínez,20.0,,1.0
+404,Adrián,Gutiérrez,58035608,Amazonía,Pediatría,Dra. Martínez,24.0,3.0,1.0
+405,Mary,González,53297218,Pacífica,Medicina General,Dr. Rodríguez,34.0,,
+406,Beatriz,Cruz,58110912,Orinoquía,Pediatría,Dr. Pérez,35.0,5.0,4.0
+407,Marina,Suárez,15612557,Andina,Pediatría,Dra. Martínez,,1.0,3.0
+408,Estefanía,Saavedra,38685536,Andina,Pediatría,Dra. Martínez,37.0,4.0,1.0
+409,Néstor,Alzate,34531540,Pacífica,Dermatología,Dra. Martínez,,,2.0
+410,Lilia,Pinzón,55299967,,Pediatría,,25.0,4.0,4.0
+411,Amparo,Velandia,67011779,Orinoquía,Medicina General,Dra. Martínez,25.0,,3.0
+412,Elsa,Perea,33953117,Pacífica,Pediatría,Dr. Pérez,26.0,2.0,
+413,Fernando,Rincón,14839005,Pacífica,Dermatología,,24.0,1.0,1.0
+414,Álvaro,Estrada,59631433,Orinoquía,Medicina General,,1.1,3.0,
+415,Patricia,García,58435309,Pacífica,Nutrición,Dra. Torres,15.0,3.0,
+416,Gina,Navarro,95557772,Amazonía,Nutrición,Dra. Gómez,41.0,,1.0
+417,Enith,Murcia,40793474,Pacífica,Psicología,Dra. Gómez,47.0,5.0,
+418,Lizeth,Gómez,90689085,Andina,Dermatología,Dra. Martínez,19.0,5.0,0.0
+419,Eduardo,Cantillo,76149704,Pacífica,Pediatría,,28.0,3.0,0.0
+420,Carmen,Quintero,62046810,,Dermatología,Dr. Pérez,31.0,5.0,
+421,David,Calderón,14040234,Andina,Medicina General,Dr. Rodríguez,14.0,3.0,
+422,Alexandra,Herrera,37484597,Amazonía,Nutrición,Dra. Martínez,32.0,0.0,5.0
+423,Adalberto,Jaramillo,49799514,Caribe,Dermatología,,11.0,2.0,3.0
+424,Jhon,Narváez,46454832,Caribe,Medicina General,Dra. Gómez,99.0,,
+425,Fabiola,Gómez,22249455,Caribe,Dermatología,Dra. Torres,22.0,3.0,
+426,Jean,Ospino,41916311,Caribe,Medicina General,,18.0,2.0,3.0
+427,Stella,Ordóñez,97061812,,Medicina General,Dr. Rodríguez,36.0,0.0,
+428,Antonio,González,89436729,,Nutrición,Dra. Torres,29.0,2.0,1.0
+429,Dora,González,59194239,Pacífica,Nutrición,Dra. Gómez,14.0,4.0,
+430,Adriana,Ramírez,10114967,Amazonía,Psicología,Dra. Gómez,13.0,3.0,2.0
+431,Brayan,Lara,17004890,Pacífica,Medicina General,Dra. Gómez,37.0,2.0,2.0
+432,Libia,Monsalve,67515852,Orinoquía,Psicología,Dr. Rodríguez,21.0,2.0,
+433,Carlos,Quintero,65690457,Pacífica,Psicología,Dra. Gómez,31.0,4.0,1.0
+434,Helena,Tamayo,45258140,Caribe,Nutrición,Dra. Torres,31.0,5.0,
+435,Armando,Fajardo,63525702,Caribe,Medicina General,Dra. Gómez,25.0,,1.0
+436,Sonia,Luna,13344271,,Medicina General,Dra. Gómez,,3.0,4.0
+437,Martha,Moreno,82428292,Andina,Dermatología,Dra. Martínez,33.0,,3.0
+438,Kelly,Fajardo,50972252,Amazonía,Pediatría,Dra. Gómez,27.0,,2.0
+439,Santiago,Ibarra,63370427,,Pediatría,,55.0,,5.0
+440,María,Castro,82585746,Pacífica,Nutrición,Dr. Rodríguez,27.0,3.0,3.0
+441,León,Arango,33521757,Caribe,Dermatología,Dr. Rodríguez,29.0,,
+442,Miryam,Palacio,55220546,Orinoquía,Pediatría,Dra. Martínez,18.0,10.0,
+443,Nicolás,Gómez,59478670,Pacífica,Nutrición,Dr. Rodríguez,24.000.000.000.000.000,,1.0
+444,Mario,Castro,93290642,,Psicología,Dra. Martínez,28.0,3.0,
+445,Gustavo,García,58401356,Andina,Psicología,,40.0,2.0,5.0
+446,Lida,Riascos,63313255,Caribe,Nutrición,Dr. Pérez,44.0,1.0,0.0
+447,Heriberto,Díaz,84134782,Andina,Pediatría,Dra. Gómez,39.0,2.0,2.0
+448,Gisela,Álvarez,60385965,Caribe,Dermatología,,43.0,4.0,4.0
+449,Miguel,Sánchez,50636711,,Psicología,Dra. Torres,44.0,3.0,2.0
+450,Guillermo,Triana,43615028,,Psicología,Dr. Rodríguez,6.0,,
+451,Fernando,Castaño,94554443,,Psicología,Dra. Torres,23.0,1.0,1.0
+452,Sergio,Orozco,60041288,,Psicología,Dra. Gómez,37.0,4.0,3.0
+453,Isabel,Rentería,27069699,Caribe,Nutrición,Dra. Martínez,38.0,3.0,1.0
+454,Raúl,Jaramillo,47903137,Orinoquía,Medicina General,Dra. Martínez,18.0,,2.0
+455,Blanca,Romero,91942880,,Psicología,Dr. Pérez,29.0,,1.0
+456,Gloria,Díaz,30477360,,Pediatría,,,1.0,
+457,Dary,Castro,73079512,Pacífica,Dermatología,Dra. Martínez,13.0,4.0,1.0
+458,Jorge,Rentería,63104037,Andina,Dermatología,Dr. Pérez,39.0,2.0,3.0
+459,Carlos,Garcés,59123464,Pacífica,Dermatología,Dr. Pérez,39.0,5.0,
+460,Paola,Rojas,34372578,Pacífica,Psicología,Dr. Rodríguez,,5.0,4.0
+461,Germán,Sandoval,15997477,Andina,Medicina General,,13.0,4.0,3.0
+462,Johana,Manrique,86985988,Amazonía,Nutrición,Dra. Martínez,25.0,5.0,5.0
+463,Víctor,Cortés,49414776,Orinoquía,Dermatología,,20.0,,2.0
+464,Gloria,Rojas,83716770,Caribe,Dermatología,Dra. Martínez,44.0,5.0,2.0
+465,Carlos,Orozco,13920492,Amazonía,Medicina General,Dra. Martínez,29.0,5.0,2.0
+466,Yuri,Silva,47783176,Orinoquía,Pediatría,Dra. Gómez,19.0,5.0,1.0
+467,Hernando,García,50195524,,Pediatría,,25.0,5.0,2.0
+468,Juan,Rojas,18275160,,Nutrición,Dra. Gómez,35.0,4.0,1.0
+469,Raúl,Gaviria,59484879,Amazonía,Nutrición,Dra. Torres,17.0,5.0,0.0
+470,Katherine,Ocampo,58926853,Caribe,Psicología,,20.0,1.0,3.0
+471,Carlos,Yepes,29347446,Amazonía,Dermatología,Dr. Pérez,21.0,1.0,
+472,Andrea,Rosero,97273568,Amazonía,Dermatología,Dra. Gómez,36.0,3.0,1.0
+473,David,Arias,94371799,Amazonía,Psicología,Dra. Gómez,35.0,4.0,1.0
+474,Liliana,Sánchez,32373884,Amazonía,Nutrición,Dra. Gómez,36.0,,
+475,Nubia,Moreno,95174281,Pacífica,Nutrición,Dr. Rodríguez,31.0,1.0,1.0
+476,Marcela,Martínez,26672080,Caribe,Medicina General,Dr. Rodríguez,19.0,,2.0
+477,Alexis,Delgado,28779588,Amazonía,Medicina General,Dra. Gómez,13.0,1.0,2.0
+478,Geraldine,Oviedo,14519141,Pacífica,Pediatría,Dra. Martínez,34.000.000.000.000.000,2.0,1.0
+479,María,Ortega,65157935,Amazonía,Dermatología,,38.0,3.0,2.0
+480,José,Valencia,74861448,Amazonía,Dermatología,Dra. Torres,18.0,3.0,3.0
+481,Deisy,Ortiz,21886373,Pacífica,Nutrición,Dr. Pérez,42.0,,3.0
+482,Yolanda,Castellanos,47106894,Amazonía,Pediatría,Dra. Torres,17.0,2.0,0.0
+483,Néstor,Bonilla,83508163,Pacífica,Pediatría,Dr. Pérez,,5.0,1.0
+484,Luz,López,36055019,Amazonía,Pediatría,Dra. Gómez,25.0,4.0,1.0
+485,Mario,Soto,50283752,Caribe,Pediatría,Dr. Rodríguez,41.0,,2.0
+486,Camilo,Melo,48089698,Caribe,Dermatología,Dr. Rodríguez,21.0,2.0,3.0
+487,Blanca,Rodríguez,43516185,Amazonía,Dermatología,,44.0,,5.0
+488,Esther,Ocampo,61727475,Caribe,Medicina General,Dra. Martínez,23.0,1.0,2.0
+489,Graciela,Uribe,76116657,Orinoquía,Medicina General,Dra. Torres,46.0,2.0,1.0
+490,Dolores,Miranda,18467915,,Dermatología,Dr. Rodríguez,33.0,3.0,3.0
+491,Marcela,Montenegro,31661983,Orinoquía,Medicina General,Dra. Torres,21.0,0.0,
+492,Cristina,Padilla,41086352,,Nutrición,Dra. Gómez,31.0,1.0,2.0
+493,Silvia,Correa,42410510,Pacífica,Nutrición,Dr. Rodríguez,34.0,5.0,2.0
+494,Gloria,Suárez,99538163,Caribe,Dermatología,Dr. Pérez,34.0,,4.0
+495,Luis,Vásquez,48835769,Caribe,Medicina General,Dr. Pérez,41.0,1.0,4.0
+496,María,Rosero,71476388,Andina,Medicina General,Dra. Gómez,25.0,3.0,1.0
+497,Néstor,Ramírez,42793309,Orinoquía,Pediatría,,28.0,4.0,1.0
+498,Lina,Herrera,76754278,Caribe,Pediatría,,16.0,,
+499,Samuel,Duarte,85042605,Orinoquía,Dermatología,Dra. Martínez,19.0,1.0,1.0
+500,Rafael,Arango,76550885,Pacífica,Psicología,,40.0,2.0,0.0
+501,Isabel,Arévalo,10005417,Orinoquía,Dermatología,Dra. Martínez,18.0,3.0,2.0
+502,María,Anaya,40490568,Amazonía,Dermatología,Dr. Pérez,39.0,1.0,1.0
+503,Rocío,Pérez,31308797,Caribe,Nutrición,Dr. Rodríguez,24.0,5.0,1.0
+504,Edgar,Torres,84662511,Pacífica,Dermatología,,38.0,1.0,2.0
+505,Elisa,Jaramillo,33480157,Orinoquía,Nutrición,Dra. Martínez,24.0,2.0,4.0
+506,Alejandro,Medina,17918393,Caribe,Psicología,Dra. Martínez,5.0,6.0,2.0
+507,Liliana,Portilla,95807119,,Dermatología,,1.6,3.0,1.0
+508,Lorena,Burgos,91114075,Caribe,Nutrición,,29.0,2.0,2.0
+509,Carmen,Monsalve,60138888,Orinoquía,Nutrición,Dra. Gómez,30.0,4.0,3.0
+510,Óscar,Rincón,72367999,,Dermatología,Dr. Rodríguez,40.0,4.0,2.0
+511,Carlos,Loaiza,19508241,,Dermatología,Dr. Pérez,28.0,3.0,0.0
+512,Paula,Lozano,92678029,Orinoquía,Pediatría,,38.0,,2.0
+513,Antonio,Ariza,60153430,,Nutrición,Dr. Rodríguez,37.0,2.0,
+514,Betty,Hernández,40411916,,Nutrición,Dra. Gómez,30.0,3.0,
+515,Leonardo,Corredor,58039991,Pacífica,Dermatología,Dr. Rodríguez,13.0,2.0,1.0
+516,James,Fonseca,57053439,,Pediatría,Dra. Gómez,24.0,,2.0
+517,Patricia,Beltrán,66398653,Amazonía,Medicina General,Dr. Rodríguez,34.0,4.0,2.0
+518,Alexander,Torres,92370242,Orinoquía,Medicina General,Dra. Martínez,26.0,3.0,3.0
+519,María,Ardila,51714609,Orinoquía,Pediatría,,49.0,,2.0
+520,Sandra,Salcedo,53101743,,Nutrición,Dra. Torres,,0.0,1.0
+521,Olga,Reyes,83702538,Orinoquía,Medicina General,Dr. Rodríguez,48.0,,1.0
+522,Augusto,Fernández,29812450,Orinoquía,Psicología,,22.0,3.0,2.0
+523,Jhonatan,Castro,64576097,Orinoquía,Pediatría,Dra. Martínez,,,
+524,Mónica,Núñez,53388273,Andina,Pediatría,,28.0,3.0,5.0
+525,Yaneth,Vargas,38608578,,Nutrición,Dra. Torres,47.0,10.0,1.0
+526,Leonardo,Molina,58678764,Pacífica,Dermatología,Dr. Pérez,45.0,5.0,3.0
+527,Jesús,Cruz,11350464,Orinoquía,Medicina General,Dra. Martínez,48.0,4.0,0.0
+528,Fernanda,Sánchez,70415789,Amazonía,Psicología,Dra. Gómez,35.0,5.0,3.0
+529,Iván,Trujillo,63557131,Caribe,Medicina General,Dra. Torres,20.0,1.0,
+530,Milena,Zapata,84037392,Pacífica,Dermatología,Dr. Rodríguez,34.0,4.0,2.0
+531,Patricia,Bernal,25495390,Caribe,Pediatría,Dra. Martínez,47.0,1.0,0.0
+532,Carmen,Cifuentes,82344733,Orinoquía,Pediatría,Dra. Torres,37.0,3.0,
+533,Sebastián,Camargo,69539387,Andina,Medicina General,Dr. Rodríguez,41.0,3.0,1.0
+534,Erika,Sánchez,43474606,Pacífica,Nutrición,Dra. Gómez,35.0,,3.0
+535,Gustavo,Castaño,99125685,Andina,Medicina General,,37.0,1.0,
+536,Lucy,Escobar,90445766,Andina,Dermatología,Dra. Gómez,22.0,2.0,1.0
+537,Víctor,Correa,37968632,Pacífica,Psicología,Dra. Torres,28.0,0.0,2.0
+538,Esther,Pulido,63606805,Orinoquía,Nutrición,Dra. Martínez,24.0,3.0,1.0
+539,Jorge,Caballero,58406753,Amazonía,Psicología,,24.0,2.0,1.0
+540,Yaneth,Luna,91816622,Orinoquía,Pediatría,,46.0,,
+541,Carlos,Bonilla,50974310,Caribe,Nutrición,Dra. Gómez,28.0,,2.0
+542,Leonor,Pulido,85627458,Amazonía,Medicina General,Dra. Gómez,29.0,,2.0
+543,Elizabeth,Rodríguez,77707328,,Medicina General,Dr. Pérez,28.0,2.0,2.0
+544,Fernando,Rodríguez,49783559,Pacífica,Nutrición,Dr. Pérez,38.0,3.0,0.0
+545,Margarita,Calderón,46091405,Pacífica,Medicina General,Dra. Martínez,29.0,1.0,
+546,Edison,García,66054072,Amazonía,Psicología,Dra. Martínez,39.0,1.0,
+547,Gloria,Cardona,30510465,Pacífica,Pediatría,Dr. Pérez,29.0,1.0,1.0
+548,Carlos,Cuesta,66797529,,Psicología,Dr. Pérez,38.0,3.0,
+549,Carlos,Moreno,60978031,Pacífica,Dermatología,Dra. Martínez,38.0,5.0,
+550,Elvia,Parra,95066766,Orinoquía,Dermatología,Dra. Torres,3.5,2.0,2.0
+551,Edwin,Rodríguez,65182899,Andina,Pediatría,Dra. Gómez,14.0,1.0,2.0
+552,Jorge,Gallego,80555893,Orinoquía,Pediatría,Dr. Pérez,43.0,2.0,1.0
+553,Álvaro,Miranda,17339574,Orinoquía,Dermatología,Dr. Rodríguez,26.0,1.0,0.0
+554,Ana,Cárdenas,78814862,Caribe,Psicología,,30.0,3.0,3.0
+555,Inés,Duque,65262177,Caribe,Nutrición,Dr. Pérez,40.0,4.0,1.0
+556,Jorge,Aguilar,95799668,Pacífica,Medicina General,Dra. Martínez,,3.0,4.0
+557,José,Restrepo,11729014,Andina,Psicología,Dr. Rodríguez,45.0,,
+558,Fabio,Triana,72948122,Pacífica,Medicina General,Dr. Rodríguez,26.0,,4.0
+559,Olga,Tovar,92269735,,Pediatría,Dra. Martínez,28.0,5.0,
+560,Viviana,Uribe,38662320,Orinoquía,Psicología,,35.0,4.0,1.0
+561,Esperanza,Gómez,10376855,Caribe,Medicina General,Dr. Pérez,25.0,4.0,2.0
+562,Flor,Escobar,95732751,Pacífica,Pediatría,Dra. Torres,31.0,2.0,1.0
+563,Segundo,Valderrama,24035152,Pacífica,Nutrición,Dra. Torres,36.0,1.0,
+564,María,García,26863374,Caribe,Dermatología,Dra. Gómez,34.0,2.0,3.0
+565,Ruth,Cardona,28922422,Amazonía,Psicología,Dra. Torres,38.0,1.0,4.0
+566,Jhan,Montoya,89664322,,Pediatría,,23.0,3.0,2.0
+567,María,Mena,92750908,Caribe,Medicina General,Dra. Gómez,33.0,5.0,2.0
+568,Betty,García,67082084,Orinoquía,Psicología,Dr. Pérez,32.0,10.0,
+569,Rosa,Padilla,32823649,Caribe,Nutrición,,,5.0,2.0
+570,José,Córdoba,33921717,Amazonía,Pediatría,Dra. Martínez,41.0,1.0,1.0
+571,Lizeth,Quiroga,89952023,Amazonía,Dermatología,Dra. Torres,25.0,1.0,2.0
+572,Andrés,García,29826004,Caribe,Psicología,,18.0,5.0,1.0
+573,Cielo,Pardo,83353587,Orinoquía,Nutrición,Dra. Torres,25.0,,2.0
+574,Diana,Herrera,87998643,Andina,Pediatría,Dr. Pérez,40.0,1.0,2.0
+575,Arnulfo,Herrera,77933840,Pacífica,Pediatría,Dr. Rodríguez,,2.0,4.0
+576,Judith,Rivas,78948047,,Pediatría,Dr. Pérez,,2.0,
+577,Yamile,Contreras,62427908,,Dermatología,Dra. Torres,30.0,1.0,1.0
+578,Luis,Hernández,76313533,Orinoquía,Psicología,Dr. Pérez,19.0,2.0,3.0
+579,Julián,Tovar,53861532,Amazonía,Medicina General,,,1.0,
+580,Javier,Calderón,42135375,Pacífica,Pediatría,Dr. Rodríguez,15.0,5.0,0.0
+581,Leonel,Barragán,57338317,Orinoquía,Psicología,Dra. Torres,32.0,0.0,1.0
+582,Fernando,Sarmiento,78990081,Orinoquía,Medicina General,Dra. Gómez,24.0,4.0,4.0
+583,Ignacio,Rincón,29729751,Orinoquía,Medicina General,Dra. Martínez,53.0,10.0,1.0
+584,Miguel,García,14252202,Pacífica,Psicología,Dr. Pérez,19.0,1.0,2.0
+585,Paola,Suárez,25059935,Pacífica,Pediatría,Dr. Rodríguez,24.0,4.0,3.0
+586,Victoria,García,58247273,Amazonía,Medicina General,Dr. Rodríguez,30.0,,1.0
+587,María,Caicedo,35393758,Orinoquía,Pediatría,Dr. Rodríguez,34.0,,1.0
+588,Cristian,Rodríguez,91147481,Amazonía,Dermatología,Dra. Gómez,39.0,4.0,2.0
+589,Yenny,Valencia,98974152,Caribe,Nutrición,Dra. Gómez,,,2.0
+590,Olga,Daza,47934903,Pacífica,Nutrición,Dra. Torres,40.0,4.0,4.0
+591,Jhoan,Cabrera,11338653,,Psicología,Dr. Rodríguez,22.0,3.0,
+592,Hernando,Perdomo,80078791,Orinoquía,Nutrición,Dra. Gómez,,,5.0
+593,Blanca,Pacheco,80845881,Orinoquía,Nutrición,Dr. Pérez,51.0,10.0,2.0
+594,Magda,Carrillo,22160430,Orinoquía,Nutrición,Dra. Martínez,23.0,4.0,2.0
+595,Fredy,Gómez,58248168,Andina,Medicina General,Dra. Gómez,,2.0,1.0
+596,Inés,Correa,53043739,Andina,Nutrición,Dra. Martínez,,2.0,
+597,Lorena,Barrera,17471994,Orinoquía,Psicología,Dr. Pérez,102.0,,1.0
+598,María,Carrillo,28026300,Caribe,Psicología,Dra. Gómez,54.0,3.0,3.0
+599,Román,Durán,74453268,Orinoquía,Medicina General,,29.0,2.0,1.0
+600,Mery,Loaiza,68603164,Orinoquía,Nutrición,Dra. Martínez,22.0,3.0,1.0
+601,Carmen,Ortiz,19736493,,Pediatría,Dra. Torres,40.0,1.0,3.0
+602,Jhon,Mendoza,94665466,Amazonía,Psicología,Dr. Pérez,16.0,2.0,
+603,Luz,Daza,60446232,Orinoquía,Pediatría,Dra. Torres,17.0,0.0,0.0
+604,Jairo,Sanabria,20561416,,Nutrición,,3.0,,2.0
+605,José,Fajardo,97550817,Andina,Psicología,Dr. Rodríguez,44.0,0.0,2.0
+606,Milena,Erazo,83312521,,Psicología,Dra. Gómez,26.0,5.0,
+607,Carolina,Castellanos,62600894,Pacífica,Pediatría,Dra. Torres,30.0,1.0,1.0
+608,Tania,Delgado,50656631,Caribe,Nutrición,Dra. Torres,41.0,5.0,5.0
+609,Lucía,Alzate,23306482,Orinoquía,Psicología,,18.0,5.0,
+610,Carolina,Salcedo,98177311,Andina,Dermatología,Dra. Martínez,36.0,,2.0
+611,Rosario,Montenegro,38181403,Pacífica,Dermatología,Dra. Martínez,19.0,,2.0
+612,Milena,Chávez,54006988,Caribe,Medicina General,Dra. Gómez,38.000.000.000.000.000,4.0,2.0
+613,César,Valencia,68133644,,Nutrición,Dra. Torres,6.0,5.0,1.0
+614,Rubén,Cruz,44490234,Pacífica,Medicina General,Dr. Pérez,41.0,5.0,0.0
+615,Cristobal,Marín,80028833,Andina,Nutrición,Dra. Martínez,26.0,5.0,
+616,Marino,Ballesteros,40897511,Pacífica,Dermatología,Dr. Pérez,99.0,5.0,1.0
+617,Luis,Díaz,51116688,Andina,Medicina General,Dr. Pérez,37.0,0.0,0.0
+618,Mary,Parra,79813319,Pacífica,Medicina General,Dr. Pérez,28.0,2.0,3.0
+619,Esteban,Vergara,25757971,Pacífica,Dermatología,Dr. Rodríguez,22.0,,3.0
+620,Felipe,Jiménez,43693668,Pacífica,Pediatría,Dra. Martínez,46.0,4.0,3.0
+621,Alejandro,Muñoz,66743340,Amazonía,Nutrición,Dr. Rodríguez,40.0,1.0,
+622,Alejandra,Méndez,14217199,Orinoquía,Medicina General,Dr. Pérez,23.0,5.0,6.0
+623,Judith,Chávez,30084751,Amazonía,Psicología,Dra. Gómez,17.0,,3.0
+624,Juan,Gómez,29513709,Orinoquía,Medicina General,Dra. Torres,32.0,2.0,2.0
+625,Piedad,Ángel,11419954,Pacífica,Psicología,Dra. Torres,24.0,3.0,
+626,Nelly,Muñoz,89402080,Pacífica,Medicina General,Dra. Gómez,27.0,5.0,0.0
+627,Luis,Álvarez,26829702,Caribe,Dermatología,Dra. Torres,26.0,,
+628,Mayra,Rojas,27888534,,Dermatología,Dr. Pérez,23.0,5.0,
+629,Melissa,Mendoza,42288864,,Pediatría,Dr. Rodríguez,20.0,2.0,
+630,Angélica,Mora,69707379,Andina,Pediatría,Dra. Gómez,38.0,1.0,1.0
+631,Esperanza,Mendoza,66561352,Amazonía,Psicología,Dra. Martínez,29.0,4.0,
+632,José,Gómez,51474559,Pacífica,Psicología,Dr. Rodríguez,31.0,4.0,2.0
+633,Stella,Osorio,31881386,Orinoquía,Psicología,,29.0,,2.0
+634,José,Mendoza,10766843,Pacífica,Pediatría,,32.0,,
+635,Libia,Marín,57181612,,Dermatología,Dra. Torres,,5.0,0.0
+636,Ramiro,Londoño,51042888,,Medicina General,Dra. Torres,15.0,6.0,3.0
+637,Carmen,Londoño,17896308,Amazonía,Dermatología,Dra. Gómez,33.0,5.0,
+638,Alberto,Gómez,89746865,,Dermatología,Dr. Pérez,32.0,,0.0
+639,Carlos,León,87856629,,Medicina General,Dra. Gómez,43.0,3.0,3.0
+640,Luis,Jaramillo,24675067,Orinoquía,Psicología,Dra. Gómez,33.0,1.0,
+641,Cristian,Ortiz,48859400,Andina,Psicología,Dra. Torres,7.0,5.0,3.0
+642,Viviana,Galvis,14906853,,Medicina General,Dra. Gómez,20.0,5.0,1.0
+643,Miller,Navarro,36116229,Pacífica,Nutrición,Dra. Martínez,23.000.000.000.000.000,5.0,
+644,Dora,Prada,17985629,,Medicina General,Dra. Torres,25.0,,3.0
+645,Yolima,García,91116628,,Nutrición,,29.0,,3.0
+646,Luz,Ávila,95516014,Andina,Dermatología,Dra. Gómez,,3.0,3.0
+647,Vanessa,Rangel,15243511,Orinoquía,Psicología,Dra. Gómez,33.0,3.0,0.0
+648,Rubiela,Aguirre,82699283,Amazonía,Nutrición,Dra. Torres,36.0,,2.0
+649,Ana,Ruiz,97868769,Caribe,Psicología,Dr. Pérez,,4.0,2.0
+650,Ana,Romero,63969035,Orinoquía,Medicina General,Dra. Martínez,,1.0,1.0
+651,Luz,Sepúlveda,57271566,Orinoquía,Nutrición,Dra. Torres,23.0,2.0,2.0
+652,Manuel,Sánchez,68632651,Pacífica,Pediatría,,13.0,1.0,2.0
+653,Joaquín,Orozco,72762810,Amazonía,Dermatología,Dra. Martínez,38.0,5.0,2.0
+654,Ramiro,Díaz,31599034,,Medicina General,Dra. Torres,19.0,2.0,3.0
+655,Adrián,García,27844872,Orinoquía,Medicina General,Dr. Pérez,17.0,4.0,
+656,Giovanny,López,66616962,Amazonía,Dermatología,Dra. Gómez,29.0,5.0,
+657,Luisa,González,18625132,Andina,Nutrición,Dra. Gómez,42.0,5.0,1.0
+658,Angélica,Rodríguez,40679828,Andina,Dermatología,,37.0,1.0,1.0
+659,Helena,Vargas,54164998,,Dermatología,Dra. Martínez,36.0,6.0,
+660,Diego,Arias,80386181,Orinoquía,Psicología,Dra. Torres,32.0,4.0,3.0
+661,Felix,Cortés,76332870,Andina,Medicina General,Dra. Gómez,23.0,5.0,3.0
+662,Iván,Rincón,85152785,Andina,Medicina General,Dr. Pérez,29.000.000.000.000.000,4.0,3.0
+663,Juliana,Sánchez,48689404,,Psicología,,26.0,3.0,1.0
+664,Gabriela,García,17171326,Pacífica,Nutrición,,36.0,1.0,2.0
+665,Julieth,Rojas,80134636,Orinoquía,Dermatología,Dra. Martínez,27.0,,3.0
+666,Juan,Romero,21919390,Pacífica,Medicina General,Dr. Rodríguez,31.0,5.0,6.0
+667,Andrea,Núñez,82336356,Pacífica,Pediatría,Dr. Pérez,43.0,1.0,
+668,Luis,Monsalve,27407399,Caribe,Pediatría,,2.5,,3.0
+669,Yaneth,Perea,75824912,Amazonía,Dermatología,Dr. Pérez,39.0,1.0,1.0
+670,Andrés,Delgado,13304656,Caribe,Medicina General,Dra. Martínez,51.0,1.0,3.0
+671,Diego,Sánchez,42852793,Andina,Medicina General,Dra. Gómez,26.0,,2.0
+672,Johanna,García,62125787,,Psicología,,36.0,2.0,2.0
+673,Carmen,Gómez,69394889,Amazonía,Medicina General,Dra. Torres,30.0,2.0,4.0
+674,María,Guzmán,61284276,,Dermatología,,28.0,6.0,2.0
+675,Francisco,Álvarez,37914275,,Dermatología,,32.0,2.0,3.0
+676,José,Bautista,67240162,,Nutrición,Dra. Torres,43.0,,1.0
+677,David,Pinzón,26236953,Caribe,Pediatría,Dr. Pérez,21.0,,
+678,Gloria,Cano,70555958,Caribe,Nutrición,Dra. Martínez,105.0,,
+679,Andrea,Ballesteros,90689422,Pacífica,Pediatría,Dra. Torres,32.0,4.0,
+680,Doris,Agudelo,93546067,Caribe,Medicina General,Dr. Rodríguez,15.0,4.0,
+681,Luz,Velásquez,69678417,Orinoquía,Psicología,,2.7,3.0,2.0
+682,Mercedes,Caicedo,15604632,Amazonía,Pediatría,Dra. Torres,38.0,,1.0
+683,José,Lozano,35407192,Andina,Psicología,Dra. Martínez,39.0,,1.0
+684,Katherin,Cardona,71608540,Pacífica,Pediatría,,46.0,4.0,1.0
+685,Andrea,Guevara,49926069,Orinoquía,Medicina General,,53.0,3.0,1.0
+686,Rafael,Chaparro,49962369,Pacífica,Nutrición,Dr. Pérez,,1.0,
+687,José,Andrade,28549655,,Dermatología,Dra. Martínez,0.0,2.0,1.0
+688,Andrés,Castillo,62019736,Andina,Nutrición,Dra. Torres,26.0,1.0,3.0
+689,Carlos,Contreras,41401416,Orinoquía,Nutrición,Dr. Pérez,25.0,4.0,0.0
+690,Ximena,Amaya,17704259,Amazonía,Psicología,Dra. Torres,35.0,,0.0
+691,Carlos,Jaimes,24704039,Amazonía,Dermatología,Dra. Gómez,37.0,1.0,1.0
+692,Antonio,Oviedo,70527187,Caribe,Dermatología,Dra. Torres,39.0,3.0,0.0
+693,Daniel,Vera,28033920,Caribe,Nutrición,Dr. Pérez,27.0,,3.0
+694,Luis,Castillo,31305938,Caribe,Psicología,Dra. Gómez,,3.0,4.0
+695,Hilda,Gutiérrez,94286227,,Dermatología,Dr. Rodríguez,25.0,,1.0
+696,Melissa,Cifuentes,27278802,Andina,Dermatología,Dr. Pérez,22.0,5.0,2.0
+697,Leonor,Leal,73401833,Caribe,Medicina General,Dr. Pérez,45.0,2.0,5.0
+698,Jairo,Hernández,78665612,Pacífica,Dermatología,Dr. Rodríguez,9.0,5.0,2.0
+699,David,Corredor,79817984,Amazonía,Medicina General,Dra. Gómez,,5.0,
+700,Rosario,Gómez,45143615,Caribe,Medicina General,,-1.0,4.0,
+701,Andrea,Cortés,14987053,Amazonía,Nutrición,Dra. Torres,3.1,3.0,2.0
+702,Socorro,Arias,41825525,Amazonía,Dermatología,Dra. Gómez,25.0,2.0,
+703,Albert,Ramos,49302542,Andina,Nutrición,Dra. Gómez,22.0,,
+704,Yulieth,Restrepo,36462742,Caribe,Dermatología,Dr. Rodríguez,26.0,4.0,
+705,Karen,Beltrán,95656619,Pacífica,Nutrición,Dr. Rodríguez,,4.0,
+706,Paula,Mejía,88687455,Amazonía,Nutrición,,24.0,4.0,2.0
+707,Ana,Giraldo,26119661,Andina,Psicología,Dr. Rodríguez,29.0,4.0,0.0
+708,Eduardo,Quintero,55674976,Amazonía,Nutrición,Dra. Gómez,16.0,3.0,
+709,Karen,Ortiz,65826101,Amazonía,Pediatría,Dr. Pérez,84.0,2.0,
+710,Daniela,Sanabria,85555939,Orinoquía,Medicina General,Dra. Torres,,4.0,3.0
+711,Paola,Sarmiento,18955090,Orinoquía,Pediatría,Dr. Rodríguez,3.5,5.0,1.0
+712,Clara,Díaz,85555117,Caribe,Psicología,Dr. Rodríguez,11.0,2.0,2.0
+713,Leonardo,Amaya,47177623,Caribe,Nutrición,Dra. Gómez,50.0,4.0,0.0
+714,Fernanda,Vargas,76985950,,Medicina General,,32.0,,0.0
+715,Albert,Vega,93433275,,Nutrición,Dra. Torres,47.0,4.0,1.0
+716,Yulieth,Navarro,31560298,Caribe,Pediatría,Dra. Gómez,27.0,10.0,1.0
+717,William,Marín,92552380,Andina,Medicina General,Dr. Pérez,28.0,1.0,1.0
+718,Rolando,García,53758500,Orinoquía,Dermatología,Dra. Torres,28.0,1.0,
+719,Jorge,Ramírez,68645826,Amazonía,Pediatría,Dra. Torres,38.0,,0.0
+720,Javier,Ramírez,17008748,,Pediatría,Dr. Pérez,22.0,2.0,5.0
+721,Yurani,Padilla,51081169,Pacífica,Psicología,Dra. Torres,13.0,,
+722,Carolina,Beltrán,72282766,Andina,Psicología,Dra. Torres,19.0,4.0,3.0
+723,Lucy,Gutiérrez,45039572,Orinoquía,Dermatología,Dra. Torres,24.0,,0.0
+724,Luis,Muñoz,65774380,Andina,Pediatría,Dra. Martínez,34.0,1.0,1.0
+725,Marcela,Vélez,46623227,,Dermatología,Dra. Gómez,33.0,,3.0
+726,José,Galvis,53837768,Pacífica,Dermatología,Dr. Pérez,14.0,4.0,1.0
+727,Rodolfo,Muñoz,93147960,Pacífica,Medicina General,Dra. Martínez,11.0,1.0,0.0
+728,Lilia,Alarcón,98023395,Caribe,Dermatología,,5.0,,2.0
+729,Diego,Moreno,86470865,Andina,Psicología,Dr. Pérez,27.0,1.0,2.0
+730,Alexander,Burgos,47719326,Orinoquía,Psicología,,40.0,,1.0
+731,Sara,Delgado,41085274,,Nutrición,Dr. Pérez,30.0,3.0,1.0
+732,Yaneth,López,92243508,Andina,Medicina General,Dra. Martínez,29.0,,1.0
+733,Milena,Garzón,71723701,Caribe,Pediatría,Dra. Martínez,33.0,2.0,
+734,Javier,Jaramillo,59300693,,Nutrición,,23.0,,3.0
+735,Antonio,Fuentes,69040026,Caribe,Pediatría,,26.0,3.0,2.0
+736,Elena,Toro,29766397,Orinoquía,Medicina General,Dra. Gómez,15.0,5.0,3.0
+737,Gustavo,Gómez,14190900,Caribe,Pediatría,Dra. Torres,47.0,2.0,1.0
+738,Giovanny,Pérez,37296999,Caribe,Psicología,Dra. Martínez,27.0,5.0,1.0
+739,María,Arévalo,59343102,Amazonía,Nutrición,,35.0,,0.0
+740,Yaneth,Rodríguez,37368235,Andina,Pediatría,Dr. Pérez,30.0,3.0,1.0
+741,César,Ramírez,52986879,Orinoquía,Pediatría,Dr. Pérez,43.0,5.0,1.0
+742,Patricia,Guerrero,25889728,Amazonía,Pediatría,Dr. Rodríguez,23.000.000.000.000.000,2.0,3.0
+743,Diana,Vargas,91630732,,Medicina General,Dr. Rodríguez,,4.0,0.0
+744,Andrea,Duarte,87437125,Amazonía,Dermatología,Dr. Pérez,23.0,5.0,4.0
+745,Erika,Barrios,30785782,Andina,Medicina General,,29.0,,
+746,Andrea,Vargas,65817323,Pacífica,Psicología,Dr. Pérez,36.0,,0.0
+747,Horacio,Toro,90711193,Andina,Psicología,Dra. Gómez,25.0,,2.0
+748,María,Zapata,63802207,Pacífica,Pediatría,,18.0,2.0,4.0
+749,Felipe,Cortés,63204394,Andina,Dermatología,Dra. Torres,35.0,3.0,5.0
+750,Claudia,Arenas,19657590,Andina,Nutrición,Dr. Rodríguez,32.0,3.0,1.0
+751,Rodrigo,Rodríguez,91221894,,Nutrición,Dra. Gómez,,,1.0
+752,Brayan,Medina,31286999,Orinoquía,Pediatría,,28.0,10.0,1.0
+753,Alberto,Espinosa,71708337,Caribe,Medicina General,Dr. Rodríguez,29.0,,3.0
+754,Alexandra,Vargas,67344519,Pacífica,Medicina General,Dra. Gómez,24.0,5.0,2.0
+755,Carmen,Sánchez,64220130,Caribe,Psicología,,153.0,1.0,0.0
+756,Edinson,Molina,12851809,Caribe,Pediatría,Dra. Torres,34.0,3.0,3.0
+757,Jessica,Ramos,99416209,Orinoquía,Psicología,Dr. Pérez,,,0.0
+758,Andrey,Soto,99226673,Orinoquía,Dermatología,Dra. Martínez,21.0,5.0,
+759,Santiago,Prieto,96689596,Caribe,Nutrición,Dra. Martínez,,1.0,0.0
+760,David,Valencia,32889444,Amazonía,Dermatología,Dr. Rodríguez,31.0,3.0,0.0
+761,Eduar,Mejía,48034419,Amazonía,Pediatría,Dr. Pérez,,5.0,2.0
+762,Manuel,Giraldo,11067469,Caribe,Dermatología,Dra. Gómez,51.0,3.0,3.0
+763,Yuri,Guerra,65751660,Pacífica,Medicina General,,28.0,,
+764,Adriana,Gómez,37192458,Pacífica,Pediatría,Dra. Martínez,,4.0,1.0
+765,Carmen,Sandoval,13690372,Orinoquía,Medicina General,Dra. Gómez,47.0,1.0,1.0
+766,Carmen,Pineda,55720974,Pacífica,Nutrición,Dra. Torres,37.0,,1.0
+767,Liseth,Gutiérrez,21228969,Andina,Pediatría,Dr. Rodríguez,,1.0,1.0
+768,Karol,Soto,66510843,Andina,Medicina General,Dra. Martínez,28.0,1.0,1.0
+769,Edgar,Cáceres,58349597,Caribe,Medicina General,,16.0,6.0,2.0
+770,Julieth,Burgos,63401587,,Nutrición,Dr. Rodríguez,40.0,2.0,
+771,Daniela,Rojas,72052590,Caribe,Medicina General,,14.0,3.0,
+772,Julieth,Moreno,36213762,Amazonía,Dermatología,,38.0,,1.0
+773,Leonel,Palacios,11645775,Amazonía,Dermatología,Dra. Gómez,29.0,2.0,
+774,Antonio,Martínez,57357432,Amazonía,Pediatría,,31.0,3.0,5.0
+775,Rosa,Carrillo,46003478,Pacífica,Medicina General,Dra. Martínez,11.0,6.0,2.0
+776,Inés,Lara,27319520,Caribe,Medicina General,Dr. Pérez,,3.0,2.0
+777,Ernesto,Gómez,42420195,Andina,Pediatría,Dr. Rodríguez,51.0,3.0,0.0
+778,Milton,Loaiza,12582813,Pacífica,Pediatría,Dr. Rodríguez,14.0,2.0,1.0
+779,Segundo,Guerrero,75221699,Orinoquía,Pediatría,Dra. Torres,49.0,2.0,1.0
+780,Josué,Cortés,58918058,,Medicina General,Dra. Torres,42.0,3.0,0.0
+781,Antonio,Arrieta,66518788,,Medicina General,Dr. Rodríguez,27.0,1.0,
+782,Natalia,López,30854502,Pacífica,Dermatología,Dra. Torres,28.0,1.0,2.0
+783,José,Navarro,38675984,Orinoquía,Psicología,Dra. Torres,41.0,,1.0
+784,Santiago,Bedoya,24137081,,Nutrición,Dra. Gómez,28.0,2.0,
+785,Elvira,Hernández,64695320,,Medicina General,Dra. Gómez,24.0,,2.0
+786,Armando,Rodríguez,39822555,Andina,Pediatría,Dr. Rodríguez,10.0,1.0,4.0
+787,César,Salazar,58290097,Pacífica,Psicología,Dra. Gómez,27.0,2.0,
+788,Mayra,Valencia,74531107,Amazonía,Pediatría,Dra. Martínez,14.0,4.0,2.0
+789,Andrés,Ramos,61079153,Caribe,Pediatría,Dra. Gómez,24.0,2.0,
+790,Carlos,Ojeda,91553292,Pacífica,Nutrición,,41.0,2.0,
+791,Jhon,Marín,26879868,Orinoquía,Pediatría,Dra. Gómez,23.0,3.0,3.0
+792,Alicia,Molina,84259207,Caribe,Medicina General,Dr. Rodríguez,20.0,1.0,3.0
+793,Esmeralda,Méndez,98849858,Orinoquía,Dermatología,Dra. Martínez,33.0,5.0,
+794,Hernando,Torres,11725851,Pacífica,Dermatología,Dra. Martínez,12.0,1.0,
+795,Camilo,Parra,60805870,Pacífica,Dermatología,,28.0,5.0,2.0
+796,Tatiana,Gaitán,18969608,Pacífica,Medicina General,Dra. Martínez,28.0,5.0,3.0
+797,Javier,Rodríguez,71584852,Pacífica,Dermatología,Dr. Pérez,22.0,1.0,1.0
+798,Sofía,Beltrán,17887022,Pacífica,Pediatría,Dra. Martínez,18.0,5.0,1.0
+799,Johanna,Vásquez,79240845,Amazonía,Dermatología,Dra. Torres,48.0,3.0,3.0
+800,Mario,Moreno,30590051,Andina,Dermatología,Dra. Martínez,27.0,1.0,2.0
+801,Inés,Caro,91305234,,Pediatría,Dra. Martínez,19.0,,
+802,Gonzalo,Lozano,40518372,Amazonía,Psicología,Dr. Pérez,29.0,,4.0
+803,Ramón,Molina,48771679,Pacífica,Medicina General,Dr. Pérez,35.0,1.0,2.0
+804,Misael,López,20782151,Amazonía,Medicina General,Dr. Rodríguez,9.0,2.0,2.0
+805,Piedad,Ramírez,31346793,Amazonía,Dermatología,Dra. Gómez,22.0,2.0,0.0
+806,Edgardo,Buitrago,69488592,Orinoquía,Pediatría,Dr. Pérez,50.0,1.0,1.0
+807,Mery,Becerra,43539152,Pacífica,Medicina General,Dra. Martínez,15.0,,0.0
+808,Andrés,Bravo,68697797,Orinoquía,Nutrición,Dra. Martínez,23.0,2.0,
+809,Sergio,Córdoba,28504131,Amazonía,Psicología,Dra. Torres,42.0,3.0,2.0
+810,Jaime,Pérez,63325773,Orinoquía,Psicología,Dra. Torres,24.0,,4.0
+811,Gladys,Gómez,91588000,Amazonía,Psicología,Dra. Gómez,36.0,3.0,3.0
+812,Daniela,Ballesteros,89518688,Orinoquía,Nutrición,Dr. Pérez,38.0,5.0,3.0
+813,Jesús,Cardona,55022146,,Psicología,Dra. Torres,17.0,3.0,
+814,Jesús,Torres,59685924,Orinoquía,Dermatología,Dr. Pérez,34.0,2.0,0.0
+815,Edgar,González,36641998,Pacífica,Dermatología,Dra. Gómez,16.0,3.0,
+816,Rosa,Núñez,75388503,Caribe,Psicología,Dra. Torres,46.0,,4.0
+817,Milena,Durán,64916966,Amazonía,Dermatología,,31.0,6.0,1.0
+818,Fredy,Prada,15467081,Andina,Dermatología,Dr. Rodríguez,30.0,4.0,2.0
+819,Esteban,Hernández,30457975,Orinoquía,Nutrición,Dra. Martínez,19.0,5.0,2.0
+820,Cecilia,Anaya,27881460,Pacífica,Dermatología,Dr. Rodríguez,35.0,,1.0
+821,Alexander,Mesa,94655052,Amazonía,Medicina General,Dra. Martínez,33.0,3.0,0.0
+822,Adolfo,Orozco,84984080,Orinoquía,Pediatría,Dra. Martínez,26.0,2.0,3.0
+823,Orlando,Monroy,21185999,Caribe,Dermatología,Dra. Martínez,18.0,2.0,3.0
+824,Vanessa,Moreno,89123778,Amazonía,Medicina General,Dra. Martínez,11.0,2.0,1.0
+825,Judith,Vargas,46264574,Orinoquía,Pediatría,Dr. Rodríguez,,,1.0
+826,David,Carvajal,85609899,Orinoquía,Medicina General,Dra. Torres,,3.0,
+827,Edier,Romero,91791055,Andina,Psicología,Dra. Torres,30.0,6.0,
+828,Enrique,Castañeda,63661447,Andina,Pediatría,,27.0,4.0,3.0
+829,Alberto,Gómez,84767379,,Psicología,Dr. Rodríguez,21.0,3.0,2.0
+830,Ángela,Zapata,97201555,Orinoquía,Medicina General,Dr. Rodríguez,50.0,4.0,1.0
+831,Ricardo,Medina,95029029,Orinoquía,Medicina General,Dr. Rodríguez,24.0,,2.0
+832,Diana,Acevedo,89878113,Orinoquía,Pediatría,Dr. Pérez,27.0,5.0,5.0
+833,William,Gómez,47685422,Andina,Psicología,,38.0,,0.0
+834,María,Rodríguez,48485406,Pacífica,Medicina General,Dra. Gómez,37.0,4.0,3.0
+835,Kelly,Jaimes,67456619,Orinoquía,Nutrición,Dr. Pérez,22.0,3.0,
+836,Alcides,Delgado,69293416,Amazonía,Medicina General,Dr. Rodríguez,36.0,3.0,
+837,Manuel,Martínez,39116943,Caribe,Medicina General,Dra. Torres,35.0,,4.0
+838,Camila,Melo,76732749,,Pediatría,Dra. Torres,78.0,1.0,
+839,Luis,Jaimes,92852385,Pacífica,Medicina General,Dra. Gómez,33.0,1.0,0.0
+840,Liliana,Sánchez,41910787,Amazonía,Psicología,Dra. Gómez,47.0,4.0,2.0
+841,Cristina,Vera,27716283,Amazonía,Dermatología,Dr. Pérez,37.0,,4.0
+842,Edwin,López,73332239,,Dermatología,Dra. Torres,50.0,3.0,0.0
+843,María,Rodríguez,64399603,,Pediatría,Dra. Torres,24.000.000.000.000.000,4.0,1.0
+844,Viviana,Díaz,40008570,Orinoquía,Dermatología,Dr. Pérez,25.0,4.0,3.0
+845,Ramón,Pérez,62952609,Amazonía,Pediatría,,,5.0,
+846,Gabriela,Herrera,70146150,,Medicina General,,30.0,4.0,1.0
+847,Alfonso,Quintero,83704228,Amazonía,Dermatología,Dra. Gómez,42.0,,0.0
+848,Alexander,Herrera,75215491,,Medicina General,Dra. Torres,21.0,5.0,0.0
+849,Mery,Tamayo,93381952,Orinoquía,Pediatría,Dr. Rodríguez,15.0,5.0,2.0
+850,Martín,Rojas,49266916,Orinoquía,Dermatología,,27.0,,
+851,Carlos,Quintero,81055087,Amazonía,Psicología,Dra. Gómez,20.0,5.0,3.0
+852,Cecilia,Ortega,10412517,Orinoquía,Psicología,,27.0,3.0,
+853,María,Cerón,23432639,Orinoquía,Pediatría,,15.0,4.0,
+854,Javier,Chacón,27841757,,Psicología,Dra. Martínez,32.0,,4.0
+855,Ronald,Herrera,71497431,Caribe,Medicina General,,17.0,3.0,3.0
+856,Paula,Camargo,38112784,Orinoquía,Nutrición,Dra. Gómez,44.0,,2.0
+857,Esperanza,Molina,27348105,Amazonía,Pediatría,Dr. Rodríguez,33.0,5.0,2.0
+858,Humberto,Díaz,76456010,Andina,Dermatología,Dra. Martínez,26.0,,1.0
+859,Fernando,Serrano,31149470,Amazonía,Nutrición,Dra. Martínez,25.0,,1.0
+860,Fernando,Pardo,11175586,,Nutrición,,44.0,3.0,2.0
+861,Oswaldo,Álvarez,87744127,Amazonía,Psicología,Dra. Gómez,21.0,3.0,3.0
+862,Steven,Garzón,54838121,,Medicina General,,17.0,,
+863,Nelson,Buitrago,86349000,Pacífica,Dermatología,Dr. Pérez,26.0,,
+864,Lucía,Alvarado,74080075,Caribe,Pediatría,Dra. Gómez,8.0,,1.0
+865,Jaime,Castellanos,57683027,Andina,Psicología,,53.0,,3.0
+866,Camilo,Cardona,32910538,Orinoquía,Nutrición,Dra. Torres,26.0,2.0,2.0
+867,Marcela,Fuentes,61808770,Pacífica,Pediatría,Dra. Gómez,40.0,,
+868,Ángela,Sierra,94107538,Caribe,Dermatología,Dra. Gómez,21.0,4.0,
+869,Norberto,Pérez,97963851,Pacífica,Psicología,Dra. Torres,8.0,3.0,2.0
+870,Hernán,Muñoz,31324928,Pacífica,Pediatría,Dr. Pérez,33.0,1.0,1.0
+871,Carlos,Anaya,54180822,Andina,Medicina General,Dra. Gómez,32.0,,3.0
+872,Constanza,López,31716454,Andina,Nutrición,Dra. Torres,17.0,1.0,3.0
+873,Jenny,Bonilla,61822219,Amazonía,Dermatología,Dr. Pérez,33.0,4.0,2.0
+874,Gladys,Acevedo,68559573,Pacífica,Pediatría,,31.0,4.0,
+875,Olga,Bedoya,10569597,Caribe,Medicina General,Dra. Martínez,39.0,3.0,6.0
+876,Manuel,Vanegas,94281342,Pacífica,Dermatología,Dra. Martínez,28.0,4.0,1.0
+877,Fabián,Torres,43602589,Amazonía,Dermatología,Dra. Martínez,35.0,0.0,2.0
+878,Alfredo,Prieto,39015618,Caribe,Medicina General,Dra. Torres,54.0,1.0,2.0
+879,Juan,Vanegas,95742953,Andina,Dermatología,Dra. Martínez,31.0,,2.0
+880,Camilo,Betancur,95035749,Amazonía,Nutrición,Dra. Torres,22.0,4.0,1.0
+881,Alejandro,Rivas,38045576,Amazonía,Dermatología,Dr. Pérez,54.0,3.0,3.0
+882,Mario,Ortega,81323660,,Psicología,Dra. Martínez,26.0,4.0,
+883,Juan,Romero,50125252,Caribe,Pediatría,Dr. Pérez,14.0,10.0,1.0
+884,Luis,Bonilla,71018208,Pacífica,Dermatología,Dra. Martínez,28.0,10.0,2.0
+885,María,Marín,23718268,Orinoquía,Pediatría,Dr. Rodríguez,38.0,5.0,0.0
+886,Claudia,Martínez,67977970,Amazonía,Dermatología,,27.0,4.0,0.0
+887,Carlos,Martínez,11630539,Orinoquía,Psicología,Dra. Gómez,38.0,5.0,1.0
+888,Jorge,Díaz,21911328,Pacífica,Medicina General,Dr. Rodríguez,42.0,1.0,2.0
+889,Erika,Quiroga,29939643,,Medicina General,Dra. Torres,24.0,,4.0
+890,Luis,Ayala,37469696,Caribe,Dermatología,Dra. Torres,24.0,5.0,
+891,Cristina,Serna,74922396,Caribe,Dermatología,Dra. Martínez,22.0,3.0,1.0
+892,Lorena,Pardo,23937320,Pacífica,Medicina General,Dra. Martínez,55.0,2.0,1.0
+893,Ovidio,Rodríguez,76770792,,Psicología,Dra. Torres,29.0,2.0,4.0
+894,Clara,Vargas,16021574,,Psicología,Dr. Rodríguez,4.3,1.0,1.0
+895,María,Rosero,33885864,Pacífica,Dermatología,Dr. Rodríguez,26.0,0.0,
+896,José,Roa,82707617,Pacífica,Pediatría,Dra. Martínez,43.0,5.0,0.0
+897,Yaneth,León,99864446,Caribe,Psicología,Dra. Martínez,42.0,,2.0
+898,María,Vanegas,71852047,Amazonía,Pediatría,,38.0,2.0,0.0
+899,María,Vargas,21027653,,Psicología,Dr. Rodríguez,37.0,4.0,1.0
+900,Karen,Meneses,56523305,Andina,Dermatología,Dr. Pérez,45.0,,2.0
+901,María,Ospina,22449841,Caribe,Psicología,,34.0,4.0,
+902,Johana,Díaz,26456626,Andina,Dermatología,Dra. Gómez,23.0,,1.0
+903,Yesenia,Cuéllar,79870113,Andina,Psicología,Dr. Pérez,12.0,4.0,1.0
+904,Isabel,Bravo,42643872,Andina,Nutrición,Dr. Pérez,42.0,2.0,3.0
+905,Andrés,González,24638974,Caribe,Nutrición,Dr. Pérez,21.0,,1.0
+906,Fernanda,Serrano,36725933,Andina,Dermatología,Dra. Martínez,183.0,,3.0
+907,Efrain,Gómez,59228841,Orinoquía,Medicina General,Dra. Martínez,29.0,1.0,4.0
+908,Mercedes,Reyes,60112891,Pacífica,Pediatría,Dra. Martínez,25.0,4.0,2.0
+909,Camilo,González,98335100,,Dermatología,,30.0,1.0,1.0
+910,Andrea,Herrera,68025395,Orinoquía,Psicología,Dr. Pérez,29.0,,0.0
+911,Enrique,Paz,15631942,Amazonía,Dermatología,Dra. Torres,,,
+912,Lucía,Torres,42884173,Andina,Pediatría,Dra. Martínez,44.0,3.0,2.0
+913,Fernanda,González,62900067,,Psicología,Dra. Torres,29.0,4.0,3.0
+914,Edison,Castro,65989165,Amazonía,Nutrición,Dr. Pérez,23.0,2.0,2.0
+915,Johanna,Calderón,16584895,Pacífica,Medicina General,,29.0,,
+916,Rubiela,Rincón,49959144,Orinoquía,Nutrición,Dra. Gómez,34.0,3.0,4.0
+917,Rodolfo,Castillo,67701512,Andina,Dermatología,,29.0,1.0,3.0
+918,Gustavo,Córdoba,49729185,Pacífica,Medicina General,Dra. Gómez,55.0,10.0,3.0
+919,Luz,Rodríguez,36100951,Amazonía,Medicina General,Dra. Gómez,40.0,4.0,2.0
+920,Mauricio,Caicedo,47662722,Caribe,Nutrición,,36.0,5.0,1.0
+921,Alberto,Díaz,72325410,Caribe,Psicología,Dra. Gómez,46.0,2.0,3.0
+922,Segundo,Miranda,35934020,Orinoquía,Medicina General,Dr. Rodríguez,41.0,5.0,3.0
+923,Jaime,Valencia,68664233,Pacífica,Medicina General,Dra. Gómez,21.0,5.0,3.0
+924,William,Durán,29386814,Andina,Nutrición,Dra. Torres,38.0,2.0,2.0
+925,Libardo,Páez,39106665,Caribe,Medicina General,Dra. Gómez,23.0,2.0,
+926,Cielo,Caicedo,11955624,Amazonía,Dermatología,Dra. Martínez,19.0,3.0,
+927,Luis,Fernández,72220752,Pacífica,Medicina General,Dr. Rodríguez,,5.0,1.0
+928,Yulieth,Mosquera,32208936,Caribe,Dermatología,Dr. Rodríguez,27.0,1.0,4.0
+929,Sindy,Bejarano,85618351,Andina,Psicología,Dr. Pérez,20.0,1.0,2.0
+930,Andrés,Vargas,12443031,Pacífica,Medicina General,Dr. Pérez,,4.0,2.0
+931,Juliana,Martínez,96072891,,Medicina General,Dr. Rodríguez,38.0,,
+932,Rocío,Sierra,81929088,,Dermatología,Dr. Pérez,38.0,1.0,3.0
+933,Ramón,Navarro,47954674,Orinoquía,Pediatría,Dr. Rodríguez,,1.0,4.0
+934,Doris,Meneses,25292219,Pacífica,Nutrición,Dr. Rodríguez,42.0,,
+935,Esperanza,Escobar,77709976,Andina,Psicología,Dr. Pérez,36.0,1.0,
+936,David,Ríos,16839859,Caribe,Medicina General,Dra. Martínez,22.0,6.0,3.0
+937,Tatiana,Anaya,94399358,Andina,Medicina General,Dr. Rodríguez,9.0,,4.0
+938,Andrés,González,89307779,Amazonía,Pediatría,Dra. Martínez,18.0,4.0,5.0
+939,Julián,Vega,15829272,Andina,Pediatría,Dr. Pérez,22.0,3.0,
+940,Segundo,Reyes,63712059,Andina,Psicología,Dra. Torres,28.0,3.0,3.0
+941,Mireya,Salazar,42377288,Amazonía,Pediatría,Dr. Rodríguez,15.0,3.0,3.0
+942,Diana,Cardona,54998686,Amazonía,Psicología,Dra. Martínez,34.0,5.0,6.0
+943,María,Rojas,94130431,,Pediatría,Dra. Martínez,32.0,1.0,
+944,José,Monsalve,28298480,Pacífica,Pediatría,,45.0,,2.0
+945,Sandra,Benítez,34974850,Amazonía,Nutrición,Dr. Pérez,26.0,5.0,
+946,Francisco,Castro,55090853,Orinoquía,Medicina General,Dra. Gómez,75.0,,3.0
+947,Augusto,Rodríguez,22588706,Pacífica,Medicina General,,44.0,5.0,3.0
+948,Paola,Calderón,39853076,Caribe,Nutrición,Dra. Martínez,31.0,4.0,3.0
+949,Felipe,Pérez,97785416,Pacífica,Psicología,,24.0,5.0,0.0
+950,Daniel,Blanco,21672408,Pacífica,Nutrición,Dra. Gómez,66.0,5.0,2.0
+951,Alicia,Romero,80373306,Orinoquía,Dermatología,Dra. Martínez,3.1,5.0,
+952,Jairo,Páez,84971300,Pacífica,Medicina General,Dra. Martínez,33.0,3.0,
+953,David,Jiménez,85806197,Amazonía,Medicina General,,,3.0,3.0
+954,Ivonne,Méndez,49667371,Caribe,Psicología,Dra. Martínez,22.0,2.0,3.0
+955,Duván,Zapata,42008519,Andina,Psicología,Dra. Martínez,41.0,4.0,3.0
+956,Julián,Camacho,74262694,,Pediatría,Dr. Rodríguez,15.0,5.0,0.0
+957,Antonio,Quintero,85734317,Amazonía,Pediatría,Dr. Rodríguez,32.0,3.0,2.0
+958,Yurani,Vargas,15496932,,Psicología,,,,
+959,Eugenia,Giraldo,86884931,Amazonía,Dermatología,Dra. Martínez,25.0,1.0,
+960,Luz,Hernández,12708502,Orinoquía,Dermatología,Dra. Martínez,27.0,4.0,
+961,Edinson,Mosquera,93951683,,Dermatología,Dr. Pérez,51.0,1.0,
+962,Patricia,Restrepo,74844847,Pacífica,Psicología,Dra. Martínez,41.0,,3.0
+963,Cristian,Manrique,53124453,Caribe,Dermatología,Dra. Torres,28.0,0.0,0.0
+964,Lucía,Rojas,12575720,Amazonía,Dermatología,Dr. Pérez,35.0,5.0,2.0
+965,Ofelia,Osorio,98608070,Pacífica,Psicología,Dr. Rodríguez,34.0,,1.0
+966,Liliana,Jiménez,41130655,Andina,Psicología,Dra. Gómez,20.0,1.0,2.0
+967,María,Salas,21210369,,Nutrición,Dr. Pérez,30.0,,
+968,María,Niño,40765678,Andina,Psicología,Dr. Rodríguez,14.0,3.0,1.0
+969,Óscar,Londoño,95290441,Amazonía,Medicina General,Dr. Rodríguez,33.0,2.0,2.0
+970,David,Rodríguez,91693424,Caribe,Pediatría,,33.0,2.0,
+971,Susana,Parra,68423177,Orinoquía,Nutrición,Dr. Rodríguez,25.0,2.0,1.0
+972,Germán,Aguirre,33497995,Orinoquía,Pediatría,,18.0,5.0,0.0
+973,Felipe,Sierra,63692518,Caribe,Psicología,Dr. Rodríguez,19.0,1.0,2.0
+974,Hilda,Moreno,19000847,Orinoquía,Medicina General,Dr. Rodríguez,11.0,4.0,2.0
+975,Paola,Gaitán,40465355,Caribe,Psicología,Dra. Torres,42.0,,4.0
+976,Juan,Jaramillo,67074215,Pacífica,Nutrición,Dr. Rodríguez,40.0,3.0,2.0
+977,Gloria,Morales,30067628,,Nutrición,Dra. Torres,35.0,4.0,2.0
+978,Elena,Alvarado,77274258,Amazonía,Psicología,Dr. Pérez,33.0,0.0,1.0
+979,Cecilia,Ramos,45811231,Caribe,Psicología,Dra. Martínez,36.0,3.0,3.0
+980,Roberto,Montoya,29403217,Orinoquía,Nutrición,Dra. Torres,13.0,6.0,
+981,Hernán,Leal,54360932,Pacífica,Medicina General,Dr. Pérez,20.0,,3.0
+982,David,Naranjo,79812963,Amazonía,Pediatría,,36.0,5.0,1.0
+983,Sandra,Bautista,72818932,Amazonía,Pediatría,Dra. Martínez,62.0,5.0,3.0
+984,Dora,Mesa,10860548,,Psicología,Dra. Gómez,12.0,1.0,1.0
+985,Luz,Morales,53950771,Amazonía,Psicología,,48.0,1.0,1.0
+986,Yolima,Herrera,80368744,,Dermatología,Dra. Torres,18.0,0.0,0.0
+987,Robert,Caro,25116824,Caribe,Psicología,Dra. Torres,27.0,2.0,0.0
+988,Fabián,Amaya,34691581,Amazonía,Dermatología,Dr. Pérez,15.0,,1.0
+989,Cecilia,Acevedo,53055725,Caribe,Psicología,Dra. Torres,19.0,1.0,1.0
+990,Yamile,Rodríguez,79873137,Amazonía,Medicina General,Dra. Gómez,33.0,5.0,2.0
+991,Enrique,Yepes,23849452,Orinoquía,Nutrición,Dra. Gómez,16.0,4.0,
+992,Alberto,Castro,94682841,Andina,Dermatología,Dr. Pérez,20.0,4.0,4.0
+993,Fabio,Cardona,91637948,Orinoquía,Psicología,Dr. Rodríguez,50.0,1.0,4.0
+994,Carlos,Valderrama,28109959,,Psicología,Dra. Gómez,31.0,4.0,
+995,Luis,Rojas,49855166,Pacífica,Pediatría,Dra. Torres,,2.0,1.0
+996,Alberto,Ramírez,28306313,Orinoquía,Medicina General,,43.0,1.0,2.0
+997,Paola,Hurtado,87496337,Andina,Pediatría,Dra. Torres,9.0,4.0,2.0
+998,José,Jaramillo,52893546,Andina,Dermatología,Dra. Torres,24.0,3.0,
+999,Laura,Fuentes,13006157,Amazonía,Dermatología,Dr. Pérez,41.0,5.0,1.0

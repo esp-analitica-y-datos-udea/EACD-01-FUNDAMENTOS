@@ -1,0 +1,100 @@
+id_transaccion;edad;genero;categoria;producto;region;precio_unitario;cantidad;metodo_pago
+MT-10000;65.0;O;Pantalones;Jeans;Centro;121463.47;3;Transferencia
+MT-10001;46.0;F;Zapatos;Sneakers;Oeste;121458.39;4;Tarjeta
+MT-10002;;M;Zapatos;Tacones;Este;97160.48;3;Transferencia
+MT-10003;64.0;M;Camisetas;Básica;Este;121462.05;4;Contraentrega
+MT-10004;56.0;F;Camisetas;Estampada;Centro;103251.31;1;Tarjeta
+MT-10005;19.0;M;Camisetas;Manga larga;Norte;121465.64;1;Transferencia
+MT-10006;25.0;M;Camisetas;Manga larga;Este;121454.85;2;Tarjeta
+MT-10007;61.0;M;Zapatos;Botas;Este;121455.3;3;Contraentrega
+MT-10008;66.0;M;Pantalones;Deportivos;Sur;121461.44;5;Transferencia
+MT-10009;19.0;M;Vestidos;Oficina;Norte;121444.19;5;PayPal
+MT-10010;19.0;M;Camisetas;Manga larga;Centro;121439.99;4;Transferencia
+MT-10011;38.0;M;Camisetas;Estampada;Centro;121464.33;5;Contraentrega
+MT-10012;38.0;M;Abrigos;Gabardina;Norte;242959.13;5;Contraentrega
+MT-10013;77.0;M;Vestidos;Noche;Norte;121462.34;3;Contraentrega
+MT-10014;70.0;F;Pantalones;Deportivos;Centro;97164.24;2;Transferencia
+MT-10015;36.0;F;Camisetas;Manga larga;Oeste;121474.8;2;Tarjeta
+MT-10016;65.0;F;Camisetas;Manga larga;Este;121460.26;1;PayPal
+MT-10017;37.0;M;Zapatos;Sneakers;Norte;121464.82;4;PayPal
+MT-10018;18.0;F;Vestidos;Noche;Sur;97172.58;1;Tarjeta
+MT-10019;38.0;M;Camisetas;Manga larga;Centro;97160.55;4;Contraentrega
+MT-10020;64.0;F;Camisetas;Manga larga;Sur;121457.66;5;Contraentrega
+MT-10021;25.0;F;Zapatos;Tacones;Oeste;121462.61;4;Transferencia
+MT-10022;41.0;F;Pantalones;Deportivos;Oeste;109315.05;4;Transferencia
+MT-10023;46.0;F;Vestidos;Oficina;Norte;121443.82;2;Transferencia
+MT-10024;77.0;F;Abrigos;Bomber;Este;242962.78;9;PayPal
+MT-10025;73.0;;Vestidos;Noche;Norte;121466.55;4;Transferencia
+MT-10026;25.0;M;Pantalones;Deportivos;Centro;121464.02;2;Contraentrega
+MT-10027;71.0;F;Pantalones;Jeans;Oeste;121459.7;2;PayPal
+MT-10028;77.0;M;Vestidos;Noche;Centro;121478.23;1;Transferencia
+MT-10029;58.0;M;Abrigos;Gabardina;Centro;242975.56;4;Tarjeta
+MT-10030;59.0;M;Camisetas;Crop top;Centro;121452.75;2;Tarjeta
+MT-10031;43.0;M;Camisetas;Básica;Sur;121455.39;5;Transferencia
+MT-10032;78.0;F;Abrigos;Plumas;Sur;242931.36;8;Contraentrega
+MT-10033;22.0;F;Zapatos;Botas;Norte;121448.57;4;Tarjeta
+MT-10034;69.0;O;Abrigos;Gabardina;Este;242973.46;4;PayPal
+MT-10035;61.0;M;Camisetas;Estampada;Sur;121464.92;5;PayPal
+MT-10036;48.0;M;Pantalones;Deportivos;Este;121461.19;2;Transferencia
+MT-10037;27.0;M;Vestidos;Oficina;Sur;121464.28;4;Tarjeta
+MT-10038;47.0;M;Zapatos;Sneakers;Norte;121447.43;2;Transferencia
+MT-10039;49.0;M;Vestidos;Oficina;Sur;121468.3;3;Transferencia
+MT-10040;52.0;F;Camisetas;Crop top;Oeste;121469.2;4;PayPal
+MT-10041;28.0;F;Pantalones;Jeans;Norte;121469.37;1;Tarjeta
+MT-10042;37.0;M;Pantalones;Deportivos;Sur;121458.92;5;PayPal
+MT-10043;55.0;M;Vestidos;Verano;Oeste;121467.53;3;PayPal
+MT-10044;80.0;M;Zapatos;Botas;Este;121462.39;1;PayPal
+MT-10045;79.0;O;Camisetas;Crop top;Oeste;121471.8;2;Tarjeta
+MT-10046;75.0;F;Abrigos;Plumas;Centro;242920.2;6;PayPal
+MT-10047;31.0;M;Camisetas;Estampada;Este;121466.08;2;Transferencia
+MT-10048;60.0;F;Pantalones;Cortos;Oeste;121460.2;3;Tarjeta
+MT-10049;24.0;F;Zapatos;Sneakers;Este;121457.11;1;
+MT-10050;52.0;O;Abrigos;Gabardina;Oeste;242956.2;8;
+MT-10051;;F;Vestidos;Verano;Este;121462.36;1;Contraentrega
+MT-10052;63.0;M;Pantalones;Chinos;Centro;121460.59;3;Transferencia
+MT-10053;25.0;F;Zapatos;Tacones;Oeste;121464.36;2;Transferencia
+MT-10054;32.0;M;Abrigos;Bomber;Oeste;242963.9;6;PayPal
+MT-10055;50.0;M;Pantalones;Cortos;Sur;121466.67;1;Contraentrega
+MT-10056;;F;Vestidos;Noche;Norte;109315.4;5;PayPal
+MT-10057;79.0;O;Zapatos;Sandalias;Centro;121462.02;5;PayPal
+MT-10058;61.0;M;Zapatos;Sneakers;Oeste;121453.31;1;PayPal
+MT-10059;71.0;;Camisetas;Crop top;Norte;121456.62;1;Contraentrega
+MT-10060;76.0;O;Vestidos;Oficina;Oeste;121457.43;1;Contraentrega
+MT-10061;40.0;M;Zapatos;Sneakers;Sur;121463.19;4;Contraentrega
+MT-10062;41.0;M;Abrigos;Gabardina;Este;194371.15;3;PayPal
+MT-10063;57.0;F;Vestidos;Casual;Centro;103242.35;3;Transferencia
+MT-10064;56.0;M;Pantalones;Chinos;Norte;97150.61;3;Transferencia
+MT-10065;70.0;M;Abrigos;Gabardina;Norte;206519.98;3;Transferencia
+MT-10066;22.0;O;Pantalones;Jeans;Este;97165.41;5;Transferencia
+MT-10067;69.0;F;Pantalones;Jeans;Este;121453.08;4;Transferencia
+MT-10068;79.0;F;Abrigos;Gabardina;Este;242964.02;5;PayPal
+MT-10069;37.0;M;Pantalones;Chinos;Oeste;121447.83;5;Tarjeta
+MT-10070;77.0;M;Camisetas;Básica;Centro;121459.38;4;Tarjeta
+MT-10071;37.0;F;Camisetas;Estampada;Centro;121459.28;2;PayPal
+MT-10072;47.0;F;Pantalones;Jeans;Centro;121453.43;3;Transferencia
+MT-10073;;M;Camisetas;Crop top;Centro;97170.53;2;Tarjeta
+MT-10074;25.0;M;Pantalones;Chinos;Sur;121455.97;4;Tarjeta
+MT-10075;71.0;M;Pantalones;Chinos;Centro;121458.83;5;Transferencia
+MT-10076;72.0;F;Pantalones;Jeans;Este;121454.9;4;Tarjeta
+MT-10077;28.0;F;Pantalones;Cortos;Centro;109310.52;4;PayPal
+MT-10078;56.0;O;Vestidos;Noche;Centro;121465.64;1;PayPal
+MT-10079;35.0;F;Vestidos;Casual;Centro;103232.76;3;Tarjeta
+MT-10080;39.0;F;Pantalones;Deportivos;Este;121465.83;4;Transferencia
+MT-10081;27.0;;Pantalones;Deportivos;Norte;97161.78;1;PayPal
+MT-10082;36.0;O;Camisetas;Estampada;Centro;121470.74;1;Contraentrega
+MT-10083;73.0;M;Zapatos;Sneakers;Centro;121470.64;1;PayPal
+MT-10084;61.0;M;Pantalones;Chinos;Sur;121459.72;1;Transferencia
+MT-10085;48.0;F;Abrigos;Plumas;Norte;242941.54;3;Contraentrega
+MT-10086;80.0;F;Vestidos;Noche;Norte;121450.73;2;Tarjeta
+MT-10087;60.0;M;Camisetas;Estampada;Centro;121454.04;5;Transferencia
+MT-10088;;M;Pantalones;Cortos;Centro;121455.21;2;Tarjeta
+MT-10089;22.0;F;Vestidos;Noche;Este;121468.27;4;PayPal
+MT-10090;33.0;M;Pantalones;Chinos;Sur;121458.35;1;Tarjeta
+MT-10091;72.0;F;Abrigos;Plumas;Este;242968.76;8;Tarjeta
+MT-10092;67.0;M;Camisetas;Estampada;Sur;121463.36;4;PayPal
+MT-10093;69.0;M;Pantalones;Jeans;Este;97173.53;5;Contraentrega
+MT-10094;45.0;F;Abrigos;Parka;Sur;242962.58;5;Tarjeta
+MT-10095;27.0;M;Zapatos;Sandalias;Oeste;121447.95;3;Tarjeta
+MT-10096;61.0;M;Abrigos;Bomber;Norte;242950.12;6;PayPal
+MT-10097;66.0;F;Vestidos;Casual;Norte;121455.32;4;Tarjeta
+MT-10098;58.0;M;Camisetas;Manga larga;Sur;121446.64;2;PayPal
